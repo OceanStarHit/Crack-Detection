@@ -1,4 +1,4 @@
-# Azure-Custom-Vision-Practice
+# Crack Detection
 
 Launch **Anaconda Prompt (miniconda3)**
 
