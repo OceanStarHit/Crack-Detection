@@ -36,7 +36,7 @@ def xywh_to_xyxy(xywh):
     return xyxy
 
 
-def xyxy_xywh(xyxy):
+def xyxy_to_xywh(xyxy):
     x, y, x2, y2 = xyxy
     w = x2 - x
     h = y2 - y

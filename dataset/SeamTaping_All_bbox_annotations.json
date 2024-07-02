@@ -1,0 +1,4843 @@
+[
+  {
+    "image_file_name": "969558.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65bad513ede527004f233bbc/files/6595616831296b004f317de4/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          661.3960113960114,
+          565.8831908831909,
+          46.15384615384619,
+          34.18803418803418
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "969577.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65bad5d4abbbf2004f248bf3/files/6595616831296b004f317df3/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          196.79672416375104,
+          -1.4023003706577675,
+          802.7065527065528,
+          393.16239316239324
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "969559.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65bad8ec76810d004f732aad/files/6595616831296b004f317de6/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          652.8490028490029,
+          567.5925925925926,
+          34.18803418803418,
+          28.49002849002852
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "969614.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c1561a2f0d33004fe8bacd/files/6595616831296b004f317df1/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          82.47232472324723,
+          71.6789667896679,
+          43.54243542435425,
+          54.61254612546125
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "997180.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c15aa02f0d33004fe8db79/files/6595616831296b004f317df9/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          426.38376383763836,
+          407.47232472324725,
+          23.616236162361645,
+          12.546125461254576
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "740640.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c15b9d2f0d33004fe8e14c/files/659e8c658be472004f0a3a69/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          365.8671586715867,
+          343.2656826568266,
+          198.52398523985244,
+          31.734317343173416
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089851.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c15c81419a8c004de59f57/files/659e8c658be472004f0a3a64/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -1.2764856155350175,
+          336.87073182949024,
+          1001.8099547511315,
+          50.6787330316742
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "997181.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c15ca873c635004ffffc53/files/6595616831296b004f317dfe/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          481.9776943870708,
+          409.60168688680983,
+          19.97593261131169,
+          9.502670244158821
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "997179.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c15e582f0d33004fe8e5e0/files/6595616831296b004f317e0d/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          398.0273668768782,
+          313.5497068062141,
+          22.734254992319563,
+          8.294930875576085
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1015721.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c15f3e2f0d33004fe8ea75/files/6595616831296b004f317df5/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          664.9067584118752,
+          471.269031917511,
+          117.70045385779133,
+          163.99394856278383
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1086864.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c161d273c635004f001473/files/6595616731296b004f317dc8/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          456.6420664206642,
+          457.65682656826567,
+          84.13284132841324,
+          165.3136531365314
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089929.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c163ee419a8c004de5bd7c/files/659e8c618be472004f0a38ba/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          376.9372693726937,
+          430.1660516605166,
+          622.6937269372693,
+          45.20295202952025
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "694025.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c164422f0d33004fe8fe4f/files/659e8c618be472004f0a38c1/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          196.40101595821153,
+          299.87979425248795,
+          804.4280442804427,
+          22.140221402214024
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1087134.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c1648f73c635004f0019de/files/659e8c618be472004f0a38cc/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e8c958be472004f0a3e67/1087134.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182613Z&X-Amz-Expires=3600&X-Amz-Signature=00675e851036577a796376634ffa1a70f2a66b0cdff2364f2a2187953bb8e9f8&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e8c958be472004f0a3e67%2F1087134.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2.9756457564574483,
+          383.0387358536323,
+          1379.9557195571956,
+          569.0922509225093
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1374.0044280442805,
+          629.7210332103322,
+          2655.7638376383757,
+          308.7232472324723
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1037702.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c5073b6c653d004e28d1e3/files/6595616831296b004f317e45/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          289.9144689950107,
+          596.6678545972916,
+          32.07412687099077,
+          105.48823948681388
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1073757.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c508906c653d004e28d328/files/6595616831296b004f317e22/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          325.55238774055596,
+          322.96863863150395,
+          42.05274411974341,
+          14.96792587312899
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1084236.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c5097d1d2e56004df107c5/files/6595616831296b004f317e5c/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          396.82822523164646,
+          307.287954383464,
+          57.73342836778335,
+          58.44618674269424
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1086891.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c509a11d2e56004df107e0/files/6595616831296b004f317e00/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          401.8175338560228,
+          308.7134711332858,
+          53.45687811831789,
+          57.73342836778335
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1073816.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c509f20be317004dc4a290/files/6595616831296b004f317e38/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          324.2691758223052,
+          322.13233878505616,
+          49.03802303728139,
+          18.655259219220397
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1087607.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c50a320be317004dc4a2ae/files/6595616831296b004f317e3c/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659561ad7c7660004f832ff7/1087607.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182631Z&X-Amz-Expires=3600&X-Amz-Signature=3010dbaffc65d0581b36145a3edda26cfbfd35b4cd05736b4fa8c2205eaba15c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659561ad7c7660004f832ff7%2F1087607.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          192.80114041339982,
+          308.0007127583749,
+          801.8531717747684,
+          101.7462580185317
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -1.0309127312694206,
+          525.7456925306134,
+          482.04309656823636,
+          31.923383878691197
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1037750.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c50a961d2e56004df108a5/files/6595616831296b004f317de1/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          779.4687937726637,
+          397.13629849418413,
+          43.838285435947455,
+          62.83487579152461
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1095327.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c50b6f1d2e56004df109e6/files/659e8c658be472004f0a3918/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -1.6037063435495367,
+          296.5965787598004,
+          35.637918745545264,
+          27.79757662152531
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "693819.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c50c0b6c653d004e28d6ba/files/659e8c658be472004f0a3929/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          312.00997861724875,
+          493.31789023521026,
+          31.36136849607982,
+          17.818959372772667
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1087136.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c50deb1d2e56004df10ca2/files/659e8c658be472004f0a3955/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          7.903064861012116,
+          882.6286528866714,
+          3767.6065573770493,
+          402.33784746970775
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1095336.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c513450be317004dc4ada1/files/659e8c658be472004f0a395e/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          18.35352815395581,
+          312.27726300784036,
+          25.659301496792583,
+          24.23378474697074
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1087137.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c514a80be317004dc4affd/files/659e8c658be472004f0a3951/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          964.8923734853885,
+          419.94012829650745,
+          2115.1475409836066,
+          606.3806129722025
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "693890.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c515481d2e56004df11624/files/659e8c658be472004f0a397b/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          642.7298645759088,
+          544.6364932287954,
+          64.14825374198142,
+          34.21240199572344
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1093078.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c5159b0be317004dc4b16c/files/659e8c658be472004f0a3990/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          295.9832009799614,
+          328.6707056307912,
+          437.9797355845432,
+          40.62722736992157
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089785.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c516606c653d004e28e398/files/659e8c658be472004f0a3993/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          407.51960085531005,
+          382.84034212401997,
+          364.2195295794726,
+          35.63791874554528
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1084235.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c531d00be317004dc4c6c8/files/6595616731296b004f317dd2/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          443.8702779757662,
+          223.1824661439772,
+          74.83962936564507,
+          272.9864575908767
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089862.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c532240be317004dc4c6fc/files/659e8c618be472004f0a38c2/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          487.34853884533146,
+          129.0983606557377,
+          183.89166072701352,
+          49.89308624376338
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1085550.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c532b71d2e56004df12bad/files/659e8c618be472004f0a38de/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -0.7654382252369146,
+          290.1616033428526,
+          997.8617248752673,
+          54.3478260869565
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089787.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c532db1d2e56004df12bc3/files/659e8c618be472004f0a38da/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -1.4255167498218053,
+          197.87954383464003,
+          1002.3164647184605,
+          201.3542409123307
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1093082.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c533040be317004dc4c786/files/659e8c618be472004f0a38ea/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          272.80826799714896,
+          335.0855310049893,
+          408.4105488239487,
+          44.19101924447614
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1094908.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c533850be317004dc4c7dd/files/659e8c618be472004f0a38ec/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          6.23663578047042,
+          215.34212401995723,
+          454.02708481824664,
+          52.03136136849611
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089841.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c533d76c653d004e28f721/files/659e8c618be472004f0a3905/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          644.5117605131861,
+          39.46899501069141,
+          34.74697077690655,
+          625.4454739843193
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "657363.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c533f41d2e56004df12c7a/files/659e8c618be472004f0a38ff/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          950.6414825374198,
+          290.8945117605132,
+          32.78688524590166,
+          53.45687811831789
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "674948.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c5340e1d2e56004df12c90/files/659e8c618be472004f0a3901/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          261.4041339985745,
+          201.08695652173913,
+          49.89308624376338,
+          34.21240199572347
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089932.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c534530be317004dc4c85e/files/659e8c618be472004f0a390d/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          529.1625124626122,
+          10.094715852442617,
+          28.74910549889887,
+          413.3728536414989
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089930.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c534c06c653d004e28f7c8/files/659e8c618be472004f0a3912/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          260.6480084519668,
+          518.264433357092,
+          627.9834954682043,
+          37.063435495367
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1092979.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c535011d2e56004df130be/files/659e8c658be472004f0a399b/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e8d0d8be472004f0a404d/1092979.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182750Z&X-Amz-Expires=3600&X-Amz-Signature=4ae6784b32f5608d2a0a5e8607f16b48f91c99a32861f1a32501d174697d27ff&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e8d0d8be472004f0a404d%2F1092979.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e8d0d8be472004f0a404d/1092979.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182755Z&X-Amz-Expires=3600&X-Amz-Signature=488896fed8f18a9769ac49fd353164df9db7d39a570e178c62c3e2e001058a16&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e8d0d8be472004f0a404d%2F1092979.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          275.30292230933713,
+          93.63863150392018,
+          541.6963649322879,
+          91.76764076977904
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          258.55310049893086,
+          295.17106200997864,
+          121.16892373485388,
+          454.7398431931575
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          349.78617248752676,
+          551.0513186029935,
+          535.2815395580898,
+          58.446186742694294
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1092980.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c5355c1d2e56004df131f0/files/659e8c658be472004f0a39cb/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e8d268be472004f0a40bf/1092980.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182802Z&X-Amz-Expires=3600&X-Amz-Signature=8fc6879c025ee5e41360b5ea6fc85d87b38f89615150e797b76e53a2f0c06b2f&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e8d268be472004f0a40bf%2F1092980.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e8d268be472004f0a40bf/1092980.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182804Z&X-Amz-Expires=3600&X-Amz-Signature=5e0352f6f934116e52ff50ed0a9cf28bbde8bb572f05a5ac63e20ff4982d2754&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e8d268be472004f0a40bf%2F1092980.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e8d268be472004f0a40bf/1092980.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182811Z&X-Amz-Expires=3600&X-Amz-Signature=0127b5560ba06073104105c03afe5db01e32386d9fe5c02a656f51024d02fd0a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e8d268be472004f0a40bf%2F1092980.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e8d268be472004f0a40bf/1092980.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182822Z&X-Amz-Expires=3600&X-Amz-Signature=560d29ccc8f9c437f94c7b4e37c56544454eb03257e6a96d880a55b40f4849d7&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e8d268be472004f0a40bf%2F1092980.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          374.7327156094084,
+          489.75409836065575,
+          163.22166785459729,
+          127.58374910905201
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          349.78617248752676,
+          154.7576621525303,
+          281.53955808980754,
+          46.32929436920884
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          608.0684274773994,
+          113.60266649563786,
+          21.967049425861205,
+          37.44383424862707
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          602.3119178850528,
+          4.944884630303365,
+          21.106674272675377,
+          63.32002281802623
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          741.8032786885246,
+          6.50392017106201,
+          31.361368496079763,
+          69.13756236635781
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1087157.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c535b16c653d004e28fc20/files/659e8c658be472004f0a39cd/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          467.71774768353526,
+          29.097647897362794,
+          1836.384889522452,
+          462.6885245901639
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089807.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c535e16c653d004e2900c0/files/659e8c658be472004f0a39cf/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          272.80826799714896,
+          533.2323592302209,
+          225.94440484675698,
+          151.10477548111191
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1087155.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c5360d6c653d004e29014b/files/659e8c658be472004f0a39bb/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e8d1f8be472004f0a409b/1087155.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182840Z&X-Amz-Expires=3600&X-Amz-Signature=d1a1405e32e2c72eedf7c99f184db73bacae0fb5c48c76a295aaf0dac3ba08b5&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e8d1f8be472004f0a409b%2F1087155.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e8d1f8be472004f0a409b/1087155.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182852Z&X-Amz-Expires=3600&X-Amz-Signature=69dd10e8c99bde64723b483067021985184ce04ed4fb90747ba6645e97f02710&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e8d1f8be472004f0a409b%2F1087155.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2128.7982893799003,
+          1414.2893799002138,
+          471.3100498930862,
+          408.0855310049892
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2790.8723644549023,
+          1223.4400685217875,
+          67.24053507433564,
+          42.919490472980215
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          3121.9492729393487,
+          1224.9172794543178,
+          902.622414895885,
+          95.99317745718145
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1093083.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c536780be317004dc4d32f/files/659e8c658be472004f0a39c1/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e8d22315407004d8000ad/1093083.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182857Z&X-Amz-Expires=3600&X-Amz-Signature=0ea31850d21e928fdee494d0eda3a9f1bedc889dfd2b010b68ab917515231e9b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e8d22315407004d8000ad%2F1093083.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8b6bcca96004d25227b/1093083.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183612Z&X-Amz-Expires=3600&X-Amz-Signature=087b49802c571f272de70cc4b435360975300707836a0d5bc45d3318cce30786&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8b6bcca96004d25227b%2F1093083.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8b6bcca96004d25227b/1093083.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183616Z&X-Amz-Expires=3600&X-Amz-Signature=97d677cf38c9645a7697b3bbe9c974a5150c7b1bf5f25d7a77f4d60fb48a7a1a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8b6bcca96004d25227b%2F1093083.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8b6bcca96004d25227b/1093083.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183621Z&X-Amz-Expires=3600&X-Amz-Signature=d5931a5f08877b186cac4d26ab1286ed55dc40847133b744220ee944c56fd12a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8b6bcca96004d25227b%2F1093083.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          180.8624376336422,
+          328.6707056307912,
+          808.2679971489665,
+          127.58374910905201
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          545.0819672131148,
+          428.4568781183179,
+          243.05060584461864,
+          318.6029935851746
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          185.85174625801852,
+          342.45838604622185,
+          807.4630167682171,
+          112.22927567953639
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          107.44832501781896,
+          640.8588738417676,
+          143.97719173200284,
+          32.78688524590166
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          550.071275837491,
+          430.5951532430506,
+          230.9337134711334,
+          317.89023521026377
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089806.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c536c51d2e56004df13ae8/files/659e8c658be472004f0a39d2/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          433.1789023521026,
+          440.57377049180326,
+          308.624376336422,
+          139.7006414825375
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1093081.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c537186c653d004e29024c/files/659e8c658be472004f0a39c7/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8b8a2b954004f662f06/1093081.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183609Z&X-Amz-Expires=3600&X-Amz-Signature=d863e1be84044110db854a6ba1b0c61fd10bfaf398d249ba38a384d6d1eac573&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8b8a2b954004f662f06%2F1093081.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          254.27655024946543,
+          329.3834640057021,
+          472.55880256593014,
+          30.64861012116893
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          254.98930862437635,
+          333.6600142551675,
+          473.271560940841,
+          24.233784746970798
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1092981.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c537626c653d004e290279/files/659e8c658be472004f0a39d9/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e8d2e8be472004f0a40e1/1092981.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182910Z&X-Amz-Expires=3600&X-Amz-Signature=1ad500c4ea449500f45d31068226dc57a162ba84454f13b3c8aebc4268287802&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e8d2e8be472004f0a40e1%2F1092981.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e8d2e8be472004f0a40e1/1092981.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182913Z&X-Amz-Expires=3600&X-Amz-Signature=299caf4bd0e9b01c3d74b264078dae7b8dff583b1ea9b3791f6c4b4a2fe02ff6&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e8d2e8be472004f0a40e1%2F1092981.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          259.9786172487527,
+          543.9237348538845,
+          363.5067712045617,
+          69.85032074126877
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          299.1803278688525,
+          297.3093371347113,
+          394.15538132573056,
+          122.59444048467572
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          342.6585887384177,
+          164.73627940128296,
+          313.61368496079825,
+          119.0306486101212
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089789.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c63daabf416e004e114093/files/659e8c658be472004f0a39f7/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -0.5535055350553518,
+          556.7657124795093,
+          226.93726937269372,
+          34.13284132841329
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1085548.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c63dee6c653d004e2d4a1c/files/659e8c658be472004f0a39f8/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          539.9714068080839,
+          405.476466618391,
+          83.4224598930482,
+          79.14438502673806
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "693966.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c63ebbbf416e004e114115/files/659e8c658be472004f0a3a30/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          137.08487084870848,
+          279.0590405904059,
+          795.5719557195573,
+          187.45387453874537
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1095310.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c63f3c6c653d004e2d4b0f/files/659e8c658be472004f0a3a3f/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -0.18450184501845018,
+          298.98523985239854,
+          33.210332103321036,
+          20.664206642066404
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089845.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c641c3bf416e004e11463c/files/659e8c658be472004f0a3a63/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1.5146297224752783,
+          452.92755957807776,
+          999.0774907749077,
+          298.89298892988927
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1089846.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65c6423ab9b3fc004e8dbdb9/files/659e8c658be472004f0a3a50/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          62.474934957650724,
+          651.8903360837735,
+          937.2693726937268,
+          99.63099630996305
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843400.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce718fbcca96004d257f00/files/65cdbb82a2b954004f65de44/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -1.6605166051660516,
+          11.162361623616237,
+          263.46863468634683,
+          339.48339483394835
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "814763.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce72232728e8004d479e6a/files/65cdbb82a2b954004f65de4d/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbc4a2b954004f65e34a/814763.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182939Z&X-Amz-Expires=3600&X-Amz-Signature=d8434b617492f64cba1b1bf8110c3e1210da4763a795bace2d53e77eaf6eb950&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbc4a2b954004f65e34a%2F814763.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbc4a2b954004f65e34a/814763.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182941Z&X-Amz-Expires=3600&X-Amz-Signature=86a81c339aa2dbe30dde756a177ef55390891e8ca18ab763f81e65788a9c64d1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbc4a2b954004f65e34a%2F814763.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbc4a2b954004f65e34a/814763.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T182944Z&X-Amz-Expires=3600&X-Amz-Signature=b11563d989c2cb33ef42cd370b1f591c1111acb8e77bdcc3a775fffac76e28af&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbc4a2b954004f65e34a%2F814763.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -2.0295202952029547,
+          -0.830258302583031,
+          231.54981549815497,
+          239.85239852398524
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          250.7380073800738,
+          376.4760147601476,
+          49.446494464944664,
+          25.83025830258299
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          321.5065725401791,
+          39.78693130996254,
+          23.8747553816047,
+          80.62622309197651
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          251.89896815803624,
+          124.00563290779772,
+          73.39755840201761,
+          264.56434471209093
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "727819.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce73f42728e8004d479f85/files/65cdbb82a2b954004f65de46/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          124.61694031168282,
+          454.0865270812216,
+          70.77051356285592,
+          52.55648038049958
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "727818.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce743cbcca96004d2580bc/files/65cdbb82a2b954004f65de47/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          56.57686520200696,
+          91.14914648772182,
+          76.52495378927918,
+          56.56192236598895
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1128339.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce74d0a2b954004f669298/files/65cdbb82a2b954004f65de60/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2147.0379593762314,
+          1149.103145646144,
+          513.2209538702105,
+          100.2483189992181
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "727820.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce75abbcca96004d258326/files/65cdbb82a2b954004f65de51/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          136.3468634686347,
+          0.09225092250922509,
+          359.409594095941,
+          25.092250922509223
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843412.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce75dca2b954004f6694ee/files/65cdbb82a2b954004f65de58/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          131.9188191881919,
+          593.450184501845,
+          140.95940959409592,
+          16.236162361623656
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1129219.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce762abcca96004d25847c/files/65cdbb82a2b954004f65de62/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbd62728e8004d46e5ba/1129219.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183006Z&X-Amz-Expires=3600&X-Amz-Signature=7e46a014de5ec2c3c505d55f78b1b7f9c77d5b093e417bdd2b13da7951a8d1c0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbd62728e8004d46e5ba%2F1129219.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbd62728e8004d46e5ba/1129219.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183010Z&X-Amz-Expires=3600&X-Amz-Signature=20949f53edc70d7292181fa7b9d26ca5e61e7c5b9666e44d83ab5703cc218922&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbd62728e8004d46e5ba%2F1129219.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbd62728e8004d46e5ba/1129219.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183013Z&X-Amz-Expires=3600&X-Amz-Signature=3cd572f2ea186a8844ad3c5a6f6edf1765cc2c246b6ecf3e56b4a25d5db643c0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbd62728e8004d46e5ba%2F1129219.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          999.0730627306272,
+          1137.068634686347,
+          907.5719557195572,
+          368.98007380073796
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1870.9372693726934,
+          1104.3365313653137,
+          532.640590405904,
+          416.590405904059
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2873.6275563750864,
+          607.7332365666557,
+          199.74606941560342,
+          165.05962622367247
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          3127.8686740384114,
+          606.3030914794972,
+          718.3546339399068,
+          411.2196360558611
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1128338.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce7737bcca96004d258a3b/files/65cdbb82a2b954004f65de5a/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbcda2b954004f65e36b/1128338.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183021Z&X-Amz-Expires=3600&X-Amz-Signature=23962a7bd4b5cf4b0edcfe85cae2f82939bfc63b7a4ac43ea760c476b14d3124&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbcda2b954004f65e36b%2F1128338.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2620.7561874029197,
+          2234.4052831014565,
+          32.13783166510848,
+          29.97470837995661
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2652.787503058402,
+          2223.851348177735,
+          559.3985863782809,
+          40.28072629186545
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "814869.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce77cdbcca96004d258b64/files/65cdbb82a2b954004f65de67/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbda2728e8004d46e5c6/814869.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183027Z&X-Amz-Expires=3600&X-Amz-Signature=08a7dcb798031ef43ef58a2dff3dae64422274adddb2a7bc93e14e413ca4ad56&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbda2728e8004d46e5c6%2F814869.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          517.1797371463651,
+          244.03995327458864,
+          95.23809523809518,
+          504.76190476190476
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          491.32841328413286,
+          0.09225092250922509,
+          53.87453874538738,
+          225.83025830258302
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1138199.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce7857bcca96004d258d21/files/65cdbb82a2b954004f65de6a/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1205.1543870000608,
+          1255.3905760484633,
+          1644.9370903187148,
+          268.1423702911054
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1138198.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce78c3bcca96004d258d52/files/65cdbb82a2b954004f65de71/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbe32728e8004d46e5da/1138198.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183036Z&X-Amz-Expires=3600&X-Amz-Signature=6310c422e5b4812cdbc4a4fa9e4fa5e3aba6f8aabfdeca4dc2b45a380c3f1f69&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbe32728e8004d46e5da%2F1138198.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbe32728e8004d46e5da/1138198.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183040Z&X-Amz-Expires=3600&X-Amz-Signature=26b4ccce4ccbde68a8dc0bf8a55b823eb09e7aee40141e3735486e55fb47e85c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbe32728e8004d46e5da%2F1138198.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          766.8209346344559,
+          757.7359007180098,
+          81.75309989861955,
+          562.8386493020353
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          475.2729031318791,
+          780.6775537107613,
+          305.00148323939476,
+          314.57015722337576
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          790.0325097665719,
+          1244.0536263106183,
+          2137.3131611875783,
+          915.0085314526223
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "767650.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce795b2728e8004d47ac03/files/65cdbb82a2b954004f65de75/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          573.9852398523985,
+          422.23247232472323,
+          171.9557195571956,
+          20.66420664206646
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "814728.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce79c3bcca96004d258e43/files/65cdbb82a2b954004f65de72/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          531.0112139844639,
+          84.92864323340095,
+          161.4663856709343,
+          664.4258281678678
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "814729.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce7a05a2b954004f66a3c3/files/65cdbb82a2b954004f65de7a/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          619.9914528702571,
+          -0.17205163708239965,
+          115.01289726433515,
+          596.8477254908605
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1138200.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce7a322728e8004d47ada7/files/65cdbb82a2b954004f65de77/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1474.859088369649,
+          1330.7674475161186,
+          792.0398410382816,
+          185.58680014085212
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1134184.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce7aec2728e8004d47addc/files/65cdbb82a2b954004f65de8c/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbff2728e8004d46e620/1134184.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183058Z&X-Amz-Expires=3600&X-Amz-Signature=c4b53b29b152ccd272b5c792dd29a30778df20dc565a72d852f6908b7469c85e&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbff2728e8004d46e620%2F1134184.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbff2728e8004d46e620/1134184.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183102Z&X-Amz-Expires=3600&X-Amz-Signature=4783d90e2d908253a003f7b5f110ebfee92c600f31a098f68a2b7a7c11d8ce0e&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbff2728e8004d46e620%2F1134184.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbff2728e8004d46e620/1134184.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183104Z&X-Amz-Expires=3600&X-Amz-Signature=1a1b207149ed4a198bb9b4763c3bdd02ddd84acdb5772d091e0888790bccc6d2&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbff2728e8004d46e620%2F1134184.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          718.7697607650603,
+          1777.8726841931157,
+          531.8966789667898,
+          1257.210332103321
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          974.5798963198224,
+          1861.474358826975,
+          210.34551948312537,
+          39.642040210281266
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1184.8335973471712,
+          1347.1278727139959,
+          176.83094592036332,
+          431.26396163311665
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1341.3577145199179,
+          1.331525610093717,
+          501.6805290563125,
+          1262.517818459397
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1138197.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce7bde2728e8004d47afd7/files/65cdbb82a2b954004f65de9f/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc112728e8004d46e647/1138197.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183111Z&X-Amz-Expires=3600&X-Amz-Signature=d1b674413e928a5b8afdddcf4c80f9afa5327d47eb5ece622cbbbc3cefcf43b8&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc112728e8004d46e647%2F1138197.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc112728e8004d46e647/1138197.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183114Z&X-Amz-Expires=3600&X-Amz-Signature=6df78c248b2da56edde307c02508f13d8499435c3217bbf68cd86f43f1fe7eff&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc112728e8004d46e647%2F1138197.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc112728e8004d46e647/1138197.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183118Z&X-Amz-Expires=3600&X-Amz-Signature=9646fdd5a4770f61809f38e94f462f6f929d8e9112fae484da59325059e183e9&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc112728e8004d46e647%2F1138197.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2358.1992619926195,
+          783.9345066119294,
+          137.62361623616243,
+          1859.778597785978
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          813.901548709204,
+          728.3112480053042,
+          1915.8249282872214,
+          624.9282872212455
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2662.0130869267523,
+          308.33177650983237,
+          78.87423487095339,
+          283.6928125197197
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2696.782296878651,
+          592.8261284946122,
+          44.62196287539609,
+          178.4878515015845
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "786695.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce7f562728e8004d47bff5/files/65cdbb82a2b954004f65de69/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbdba2b954004f65e391/786695.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183125Z&X-Amz-Expires=3600&X-Amz-Signature=47f283b275ecfd6e586eae8df38989d879e174b0e348f39eaccc4c2ac1059549&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbdba2b954004f65e391%2F786695.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          879.4480898263225,
+          319.2276295721697,
+          58.32012678288436,
+          11.093502377179163
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          749.638222126838,
+          315.9005296445148,
+          65.61014263074492,
+          10.142630744849441
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1134391.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce81eb2728e8004d47cb5f/files/65cdbb82a2b954004f65de84/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          312.4428044280443,
+          938.9051357129249,
+          259.61513550125943,
+          2083.456978967495
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1137607.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce83322728e8004d47d4cb/files/65cdbb82a2b954004f65deb3/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -4.53596355904619,
+          1085.8900559680126,
+          2116.4280442804434,
+          115.3062730627305
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843426.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce8466bcca96004d25bc30/files/65cdbb82a2b954004f65dec5/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc2ea2b954004f65e484/843426.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183142Z&X-Amz-Expires=3600&X-Amz-Signature=2689a00384e628f90492387235c90c208898112b7d0a028610db88053a416d75&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc2ea2b954004f65e484%2F843426.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -0.36459328736713736,
+          518.0822834124756,
+          104.18326693227093,
+          23.10756972111551
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          76.65724018567165,
+          -0.9864840027710534,
+          84.87084870848709,
+          532.2878228782287
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1140373.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce8552a2b954004f66d169/files/65cdbb82a2b954004f65de9c/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          3233.6048360006107,
+          2448.905135594283,
+          550.5616661787458,
+          75.03826690644473
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843384.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce85e82728e8004d47d8e4/files/65cdbb82a2b954004f65deb0/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc20bcca96004d24c94c/843384.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183152Z&X-Amz-Expires=3600&X-Amz-Signature=0a14fc13353c46e9dd849670be54ca3033f3ca89b4f6caeb57756bb7ea15bd5a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc20bcca96004d24c94c%2F843384.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc20bcca96004d24c94c/843384.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183155Z&X-Amz-Expires=3600&X-Amz-Signature=23b21bcab695cab2d55dc06f2a3f2d1cff8dc19323746f2f4e13188d984cc27a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc20bcca96004d24c94c%2F843384.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc20bcca96004d24c94c/843384.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183158Z&X-Amz-Expires=3600&X-Amz-Signature=9172745d805505d2900553872043fb00b00ab6bb46d2b1f3b58328b180b6a05e&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc20bcca96004d24c94c%2F843384.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc20bcca96004d24c94c/843384.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183201Z&X-Amz-Expires=3600&X-Amz-Signature=2d18f77bb3e4f398fbcbe28ca45b7dc1d56735bf7ba44ef2ae2a6355b844d80d&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc20bcca96004d24c94c%2F843384.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          395.9409594095941,
+          -0.6457564575645816,
+          28.597785977859758,
+          751.8450184501845
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          492.4354243542436,
+          423.910520779416,
+          36.90036900369006,
+          331.180811808118
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          461.070110701107,
+          -2.121771217712177,
+          45.01845018450183,
+          403.690036900369
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          71.34340865321002,
+          2.0934950728817703,
+          176.1992619926199,
+          716.789667896679
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          224.5562772369805,
+          158.05410640313298,
+          75.6457564575646,
+          532.2878228782287
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "814782.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65ce86e72728e8004d47db11/files/65cdbb82a2b954004f65dec1/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc2b2728e8004d46e699/814782.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183206Z&X-Amz-Expires=3600&X-Amz-Signature=73366b0261bc074e70ac37337b00d120ea6ae258cff93a73346ec0631448e236&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc2b2728e8004d46e699%2F814782.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          585.7933579335794,
+          459.1328413284133,
+          24.35424354243537,
+          149.81549815498158
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          530.705765529416,
+          0.3490823944784658,
+          64.57564575645756,
+          361.6236162361624
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843428.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf8ffba2b954004f696429/files/65cdbb81a2b954004f65de05/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          113.45432047154203,
+          0.5093716814908372,
+          125.46125461254611,
+          749.0774907749077
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1137653.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf90582728e8004d4a3c27/files/65cdbb81a2b954004f65de0b/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -2.0079288124250683,
+          1087.2265682656828,
+          2108.988929889299,
+          100.42804428044292
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "767651.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9092bcca96004d28223e/files/65cdbb81a2b954004f65de13/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbba8bcca96004d24c79f/767651.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183217Z&X-Amz-Expires=3600&X-Amz-Signature=d555a9eb5c70822012959e543a1ce77e78a5172af6de073c7b1463b32b9d816a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbba8bcca96004d24c79f%2F767651.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbba8bcca96004d24c79f/767651.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183220Z&X-Amz-Expires=3600&X-Amz-Signature=db9ef2a240662d4bb0867b12e42df89a5442768551beb5089892d7367834def4&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbba8bcca96004d24c79f%2F767651.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbba8bcca96004d24c79f/767651.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183222Z&X-Amz-Expires=3600&X-Amz-Signature=5434a8377852569db9325664d6c2dbae0ce7aa54b88fe0ede6c13dcecc6c003e&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbba8bcca96004d24c79f%2F767651.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          461.8081180811808,
+          515.57412846789,
+          93.23052821321045,
+          29.16756894908417
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          540.9190482776522,
+          470.4865617696521,
+          20.6429780033842,
+          57.86802030456863
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          552.1871715898656,
+          495.06141440614465,
+          60.263653483992584,
+          12.80602636534843
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          601.8942971397786,
+          222.98161412915852,
+          30.819016184869838,
+          282.97624021080185
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843462.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9165a2b954004f69659b/files/65cdbb81a2b954004f65de0e/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbb9fa2b954004f65e219/843462.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183228Z&X-Amz-Expires=3600&X-Amz-Signature=f766ad9ba8b7371e127e4821ee02674c84e5abec8053616827b53c8fb4576a13&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbb9fa2b954004f65e219%2F843462.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbb9fa2b954004f65e219/843462.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183230Z&X-Amz-Expires=3600&X-Amz-Signature=cd55743ab4ce8fd70c765b015f095ee34b6fb31d74ed9b82193db55861bfe0fd&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbb9fa2b954004f65e219%2F843462.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          747.4169741697417,
+          220.01845018450183,
+          146.86346863468634,
+          202.95202952029524
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          687.0998688803494,
+          98.22341077572774,
+          61.28969970211142,
+          96.51711251510359
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          623.3234163522959,
+          -0.08336884636721402,
+          71.50635208711435,
+          98.72958257713255
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1139083.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf91ea2728e8004d4a3da7/files/65cdbb81a2b954004f65de15/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          854.3401057253819,
+          1279.1613892269054,
+          2180.884996018655,
+          247.67148219770206
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "814732.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf92412728e8004d4a3e04/files/65cdbb81a2b954004f65de18/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          487.31528359546104,
+          -0.19415909271448042,
+          34.132841328413235,
+          750.0
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1129717.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf92a5a2b954004f696693/files/65cdbb81a2b954004f65de1f/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbb2bcca96004d24c7fb/1129717.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183255Z&X-Amz-Expires=3600&X-Amz-Signature=99c3f398d52107c2157abb47b9e1bfc95dcf469bf469035212b55736e6a0b03c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbb2bcca96004d24c7fb%2F1129717.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbb2bcca96004d24c7fb/1129717.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183300Z&X-Amz-Expires=3600&X-Amz-Signature=4af1c16abe96169be9bfa6dc6b9c3d1f440f33038af3edcf6c839b55383df703&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbb2bcca96004d24c7fb%2F1129717.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbb2bcca96004d24c7fb/1129717.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183308Z&X-Amz-Expires=3600&X-Amz-Signature=2db3a6cf361395c566d42cc7ef239a9002fbad0475cab2ada0a472c4e363b22c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbb2bcca96004d24c7fb%2F1129717.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          994.5868781919057,
+          1134.40247591335,
+          895.419635421486,
+          373.09151475895237
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1872.5167528319457,
+          1116.640490106641,
+          536.6399353056136,
+          396.70597749174476
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2897.714929617252,
+          623.4419774957236,
+          167.1056001078241,
+          138.5753756991711
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          3119.8637249997537,
+          600.1819988834262,
+          712.8662118065854,
+          407.8647285671906
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843387.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf936da2b954004f6966e3/files/65cdbb81a2b954004f65de20/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          8.372554354306256,
+          -1.7148730154799916,
+          83.02583025830258,
+          752.7675276752767
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843434.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf93f52728e8004d4a3e96/files/65cdbb81a2b954004f65de28/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbbb92728e8004d46e549/843434.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183328Z&X-Amz-Expires=3600&X-Amz-Signature=6371745b4793271f12cd3485a0894e338387b1654d7f565884afc46123a2a4b2&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbbb92728e8004d46e549%2F843434.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          385.63900651253476,
+          6.150458068041807,
+          25.18315018315019,
+          743.5897435897435
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          336.83852451134493,
+          23.343841229561324,
+          23.136246786632398,
+          727.0779777206513
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1128347.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9468bcca96004d282491/files/65cdbb81a2b954004f65de1e/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          3688.607061335364,
+          652.1567533035509,
+          343.1257598270972,
+          81.01580440362
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "727817.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf94acbcca96004d2824ac/files/65cdbb81a2b954004f65de2a/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          189.753434956387,
+          193.70811008821318,
+          61.53865571764297,
+          55.30145530145529
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1008155.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9604bcca96004d2824c7/files/65cdc686a2b954004f662244/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -1.609931212903831,
+          -0.4599836508439394,
+          708.9398489882217,
+          257.13001641771217
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1008154.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf96692728e8004d4a3f09/files/65cdc686a2b954004f662245/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          259.1942616960146,
+          95.70112379889474,
+          741.199478487614,
+          174.05475880052148
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "814745.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf971da2b954004f696790/files/65cdbb81a2b954004f65de26/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          227.92980849516528,
+          87.19866943194981,
+          40.389294403892904,
+          190.2676399026764
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1098537.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf97aba2b954004f6967e0/files/65cdc899bcca96004d252122/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          148.12650538080953,
+          300.28802458442595,
+          643.7299035369774,
+          99.03536977491962
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1097831.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf97e3a2b954004f696805/files/65cdc899bcca96004d252123/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8a82728e8004d472d55/1097831.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183350Z&X-Amz-Expires=3600&X-Amz-Signature=2f5ac28b2513968f4c167d98d10f0a3b2e5f215680b1406b985897765911ab09&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8a82728e8004d472d55%2F1097831.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8a82728e8004d472d55/1097831.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183352Z&X-Amz-Expires=3600&X-Amz-Signature=370b1e17da795c0902fa27c9030f678dad645c0bd43afdd575868943575616e1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8a82728e8004d472d55%2F1097831.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8a82728e8004d472d55/1097831.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183356Z&X-Amz-Expires=3600&X-Amz-Signature=9e25ad78c5726ad1301dec57ceed9d53753216f565d6860bc6684d4a1cec2cdc&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8a82728e8004d472d55%2F1097831.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8a82728e8004d472d55/1097831.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183402Z&X-Amz-Expires=3600&X-Amz-Signature=13ff98f710a03f4a4df747f46217f979d3a5f269c7d791a97a12f37819e25a26&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8a82728e8004d472d55%2F1097831.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8a82728e8004d472d55/1097831.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183405Z&X-Amz-Expires=3600&X-Amz-Signature=c99146f93e9cd77f9ba1c0a874d6844b65e7c064dcfb2a738f6bfb3b90702c9f&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8a82728e8004d472d55%2F1097831.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8a82728e8004d472d55/1097831.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183407Z&X-Amz-Expires=3600&X-Amz-Signature=fa29505571739df03531667a04fd51ea0f256d86a47c558be1537226b84bd071&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8a82728e8004d472d55%2F1097831.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8a82728e8004d472d55/1097831.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183409Z&X-Amz-Expires=3600&X-Amz-Signature=3ce412d71bbb2778570c64353b324d026fe477fece7963e6c9e8279465af222c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8a82728e8004d472d55%2F1097831.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          771.7069423932148,
+          520.3534273637542,
+          85.23908523908528,
+          14.137214137214187
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          753.8231149133223,
+          249.4567178757087,
+          19.947506561679802,
+          281.3648293963254
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          452.54043256155836,
+          205.93381811159375,
+          42.22648752399232,
+          81.38195777351254
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          491.4934164939258,
+          260.80655469119574,
+          141.08723135271828,
+          24.273072060682694
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          720.288675437235,
+          236.8504742010406,
+          115.93090211132449,
+          21.497120921305196
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          473.61623616236164,
+          -2.121771217712177,
+          155.7195571955719,
+          52.398523985239855
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          673.2264718291464,
+          12.227682006737453,
+          34.84573502722321,
+          15.60798548094375
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          785.6116575223792,
+          6.141017937478805,
+          20.309810671256514,
+          216.5232358003444
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1098568.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf998abcca96004d2825f7/files/65cdc899bcca96004d252125/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8a9a2b954004f662ea8/1098568.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183415Z&X-Amz-Expires=3600&X-Amz-Signature=705e5fefd7baee9286ec324369e9da7f4c05cfabc5b29045d0bb88a05b360281&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8a9a2b954004f662ea8%2F1098568.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          229.11512669943977,
+          343.638364124505,
+          508.970099667774,
+          54.48504983388705
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          735.2830740527316,
+          359.0734830887087,
+          29.07180385288973,
+          38.17863397548166
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "814731.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9ab0a2b954004f6968b8/files/65cdbb82a2b954004f65de92/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc052728e8004d46e62c/814731.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183420Z&X-Amz-Expires=3600&X-Amz-Signature=d1280073cdc1763e944244a0c0ba4b6f2aa1246e82df0a95cbaedf277715bce3&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc052728e8004d46e62c%2F814731.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          507.82279067003833,
+          266.9083319063845,
+          73.58121330724077,
+          14.48140900195699
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          481.15662829764057,
+          276.8450184501845,
+          35.26403590900151,
+          472.62992818140845
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843446.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9b2abcca96004d282666/files/65cdbb82a2b954004f65de99/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          17.87327167025657,
+          53.904676247522595,
+          204.0665434380778,
+          316.45101663585973
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1134279.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9b8c2728e8004d4a4075/files/65cdbb82a2b954004f65dea3/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          63.15997740036347,
+          -0.021120789634838846,
+          1788.3169401071852,
+          3028.6327396389606
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "727813.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9bb4a2b954004f696916/files/65cdbb82a2b954004f65dea7/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc1c2728e8004d46e65a/727813.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183442Z&X-Amz-Expires=3600&X-Amz-Signature=0146a981483f717273ec12af4f112b83da1c166cbbb86980b7b708607eed486d&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc1c2728e8004d46e65a%2F727813.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          250.1725448716682,
+          426.29940885714103,
+          109.55777460770344,
+          10.271041369472186
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          485.0302379047606,
+          406.41602678264564,
+          122.42295430393222,
+          40.38257173219995
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843379.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9c6cbcca96004d2826cb/files/65cdbb82a2b954004f65deac/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          451.0271794484479,
+          -0.3211555628455748,
+          304.46389645030627,
+          750.3342376223419
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "727838.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9cb82728e8004d4a40e9/files/65cdbb82a2b954004f65deb2/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          717.7607683245132,
+          419.304755498245,
+          32.28803716608593,
+          57.37514518002337
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "727839.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9ce1a2b954004f696980/files/65cdbb82a2b954004f65deb4/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          267.2277855216088,
+          393.6087680345726,
+          156.10972568578546,
+          159.60099750623436
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "727828.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9d1dbcca96004d28272c/files/65cdbb82a2b954004f65debc/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          716.2817494914985,
+          124.75578443372494,
+          54.75146084060475,
+          73.86045172863668
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843380.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9d472728e8004d4a4132/files/65cdbb82a2b954004f65debf/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -0.18450184501845018,
+          226.66051660516604,
+          191.88191881918817,
+          22.878228782287835
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843427.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9d73a2b954004f6969d7/files/65cdbb82a2b954004f65dec2/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc2c2728e8004d46e69e/843427.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183501Z&X-Amz-Expires=3600&X-Amz-Signature=26dc75e547ce587ce95918a0bf2d37fd805b5e5b1c4af5f56b637d827850a4dd&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc2c2728e8004d46e69e%2F843427.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -0.18450184501845018,
+          698.2472324723248,
+          103.3210332103321,
+          24.35424354243537
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          88.09301750044122,
+          -0.05474484618129642,
+          91.98841401045453,
+          695.9689142151725
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "727816.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9de8a2b954004f696a02/files/65cdbb82a2b954004f65dec3/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          526.4975307798065,
+          221.12273098213333,
+          56.226880394574664,
+          52.527743526510534
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "814807.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9e40a2b954004f696a20/files/65cdbb82a2b954004f65dec4/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          627.1926720074396,
+          376.67636494922573,
+          373.0929264909853,
+          137.8640776699031
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "843432.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9e77bcca96004d282798/files/65cdbb82a2b954004f65dec6/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbc2ea2b954004f65e487/843432.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183518Z&X-Amz-Expires=3600&X-Amz-Signature=e41fc4ac4f78c2abb5bf1eb443a9f1dc81c16d853d2d012b3f92fe0338e2caa7&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbc2ea2b954004f65e487%2F843432.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          179.84353804756142,
+          -0.5652463292265938,
+          130.86652855908488,
+          750.2628427317395
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          106.46086450611597,
+          -0.10461864834925544,
+          148.60134864849437,
+          749.941173109052
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1148676.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cf9f782728e8004d4a4317/files/65cdc687a2b954004f66225c/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          268.02460155677124,
+          764.3869550966223,
+          53.04372165929573,
+          217.8178357498739
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1154638.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65cfa098a2b954004f696ca0/files/65cdc687a2b954004f66226b/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          617.3824580620183,
+          363.24088232843445,
+          227.6747503566337,
+          95.29243937232536
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1008151.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d392a4a2b954004f713c04/files/65cdc687a2b954004f66226f/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          809.8545086437714,
+          577.713854964344,
+          28.072364316905805,
+          34.934497816593876
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1106413.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d392cfef0cbd004e413ec3/files/65cdc899bcca96004d252134/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          599.5880429371113,
+          371.1435923368377,
+          135.89868485143688,
+          24.354603019970796
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1145876.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d3957eef0cbd004e413f1a/files/65cdc687a2b954004f662278/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          663.3998574483251,
+          227.89522451888809,
+          74.83962936564501,
+          163.22166785459729
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1098562.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d39645bcca96004d30a347/files/65cdc899bcca96004d252139/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8aebcca96004d252244/1098562.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183542Z&X-Amz-Expires=3600&X-Amz-Signature=1cbfd56641f742d9061150023d14188e554c9f9be385bc1ff086f94cbe7e2e9d&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8aebcca96004d252244%2F1098562.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          439.5937277263008,
+          126.96008553100499,
+          263.72059871703493,
+          514.6115466856736
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          4.144574415706964,
+          51.20803064801761,
+          994.1812136325854,
+          86.450540315877
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1106414.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d39774ef0cbd004e413fa6/files/65cdc899bcca96004d252143/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8b22728e8004d472d93/1106414.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183554Z&X-Amz-Expires=3600&X-Amz-Signature=094f0cc3f58d71187306737b2fed196e9fd0faacc95ac9b366d76eb46ebf42f7&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8b22728e8004d472d93%2F1106414.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          497.96201545602474,
+          359.8209495560247,
+          283.57463804293553,
+          43.93409885172241
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          433.2398180709815,
+          431.8361442751007,
+          244.54148471615713,
+          17.467248908296938
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1098566.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d398d0a2b954004f713cf7/files/65cdc899bcca96004d252144/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          304.56347420948913,
+          327.61810004482476,
+          431.00411039342333,
+          44.039929536112766
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1098514.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d3991aa2b954004f713d26/files/65cdc899bcca96004d25214a/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          277.7975766215253,
+          345.06414825374196,
+          309.33713471133285,
+          32.07412687099077
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1098539.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d399a0a2b954004f713d46/files/65cdc899bcca96004d252150/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          439.5937277263008,
+          295.17106200997864,
+          68.42480399144688,
+          180.327868852459
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1098513.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d399ecef0cbd004e414035/files/65cdc899bcca96004d252153/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1.9600855310049894,
+          300.8731290092659,
+          980.0427655024946,
+          238.7740555951532
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1098522.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d39afea2b954004f713dde/files/65cdc899bcca96004d252156/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          255.70206699928724,
+          332.9472558802566,
+          468.9950106913757,
+          26.372059871703527
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1098519.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d39b4fbcca96004d30a4d1/files/65cdc899bcca96004d25215a/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          207.9472558802566,
+          290.8945117605132,
+          789.023521026372,
+          157.51960085531005
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1097830.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d39b72ef0cbd004e4140db/files/65cdc899bcca96004d25215b/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8bca2b954004f662f18/1097830.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183637Z&X-Amz-Expires=3600&X-Amz-Signature=a8c53326e9130cf80f8bf0678b3e25c16166d3bb4ae441da47fc53f219d0c7c0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8bca2b954004f662f18%2F1097830.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8bca2b954004f662f18/1097830.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183646Z&X-Amz-Expires=3600&X-Amz-Signature=51be5c81799b2fdebd73881e9120c2e5e276cee3efe7a0351f565b808ce8ad86&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8bca2b954004f662f18%2F1097830.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8bca2b954004f662f18/1097830.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183649Z&X-Amz-Expires=3600&X-Amz-Signature=c866727432a6c187b4e3a39f4af1a3dc17d786ea3b6d0da7b37539ac902a4577&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8bca2b954004f662f18%2F1097830.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          465.6596996397076,
+          234.90380111472533,
+          149.27608587119323,
+          93.3599600599101
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          748.2497265796372,
+          515.3309870693178,
+          79.8738833420914,
+          217.02574881765634
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          697.9595156511848,
+          526.8779537575248,
+          45.7621656461489,
+          10.957138253303242
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          447.6897954967936,
+          481.3632209276727,
+          173.56157869709938,
+          79.41036614360439
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1097833.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d39c2da2b954004f713e7d/files/65cdc899bcca96004d25215f/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8bea2b954004f662f24/1097833.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183657Z&X-Amz-Expires=3600&X-Amz-Signature=518a610fcff7f28c605fce53532147a0ee125214ce37a7252157b6986b016828&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8bea2b954004f662f24%2F1097833.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          113.1503920171062,
+          252.4055595153243,
+          91.23307198859588,
+          21.38275124732715
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          111.01452748699477,
+          12.44194874636609,
+          22.46630054917621,
+          212.18172740888662
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1102482.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d39c6fbcca96004d30a553/files/65cdc899bcca96004d252163/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8be2728e8004d472ddb/1102482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183703Z&X-Amz-Expires=3600&X-Amz-Signature=5da587111dd1399e448927513042a9909eef380bb8e55406c9147d22968d02ac&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8be2728e8004d472ddb%2F1102482.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          137.38417676407698,
+          454.11617961511047,
+          575.1960085531005,
+          46.32929436920887
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          217.21311475409837,
+          178.27868852459017,
+          615.1104775481112,
+          53.45687811831789
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1098556.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65d39ca4a2b954004f713ecf/files/65cdc899bcca96004d252166/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8c0bcca96004d2522b1/1098556.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183707Z&X-Amz-Expires=3600&X-Amz-Signature=89aabfc244d45a555fe5414aa3c3c2c192c596d01d98386da44e79ad19584e04&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8c0bcca96004d2522b1%2F1098556.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8c0bcca96004d2522b1/1098556.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183710Z&X-Amz-Expires=3600&X-Amz-Signature=fb3b86975b34be2c7150025dd8c8596e3362eda9afb7c7608a57fe7db96959c8&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8c0bcca96004d2522b1%2F1098556.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8c0bcca96004d2522b1/1098556.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183713Z&X-Amz-Expires=3600&X-Amz-Signature=92179a3e63153008c3207801f9b571a9e1c832cb6975be7bc36a1fc219e0f0e8&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8c0bcca96004d2522b1%2F1098556.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8c0bcca96004d2522b1/1098556.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183716Z&X-Amz-Expires=3600&X-Amz-Signature=7f5854ff9d0051e3bb76c5e5dbed4ecfc26344dbcc4de472e051e350d9bfff1f&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8c0bcca96004d2522b1%2F1098556.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc8c0bcca96004d2522b1/1098556.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183718Z&X-Amz-Expires=3600&X-Amz-Signature=e16ce6828889213de1a7583be521415eacedabf32b466c298739d9b9358ad3ff&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc8c0bcca96004d2522b1%2F1098556.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          485.21026372059873,
+          521.8282252316465,
+          332.8581610833927,
+          228.0826799714897
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          291.4610598644407,
+          35.74723165086728,
+          89.2542571931885,
+          64.59189665296533
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          798.4251541688528,
+          508.1709127272614,
+          84.48540706605218,
+          44.03481822836653
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          521.1230396603481,
+          60.22467745955515,
+          55.90416428978892,
+          59.8973188819167
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          640.624653403976,
+          188.05724793235203,
+          88.66705813270687,
+          93.364650616559
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          786.5935847266346,
+          138.68277599833422,
+          119.42201444963871,
+          60.773480662983445
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "914956.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de20a2496330004f146a77/files/65dc537d496330004f0a018f/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          419.48119950465275,
+          225.32074126870992,
+          58.601480466836904,
+          426.2688508102055
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "533380.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de213f496330004f146ae5/files/65dc537d496330004f0a01a2/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          746.07982893799,
+          327.24518888096935,
+          66.2865288667142,
+          21.382751247327178
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1124671.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de21dd7232d6004ddaacab/files/65dc537d496330004f0a01b7/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2763.9173200285104,
+          2081.020669992872,
+          1186.8966500356378,
+          209.7904490377764
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1044392.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de222e496330004f146bc7/files/65dc537d496330004f0a01c7/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc572d73e511004d56cb22/1044392.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183808Z&X-Amz-Expires=3600&X-Amz-Signature=3e6a2e6cc6ed78a5b9719aae4fdaabc28f4f399851f026160651673124f7be6d&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc572d73e511004d56cb22%2F1044392.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          239.3086243763364,
+          223.8952245188881,
+          116.17961511047758,
+          92.65858873841765
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          527.842673341958,
+          240.56531616463175,
+          100.41103934233706,
+          73.39988256018788
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "853001.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de6390496330004f150b4f/files/65dc537d496330004f0a0201/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          55.41696364932288,
+          134.80042765502495,
+          172.48752672843904,
+          49.89308624376338
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1064257.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de64be7232d6004ddb2710/files/65dc537d496330004f0a0216/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          669.8146828225232,
+          99.16250890947968,
+          265.8588738417676,
+          52.03136136849609
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "533341.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de65ba496330004f151d40/files/65dc537d496330004f0a0233/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc58057232d6004dd1e2a0/533341.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183818Z&X-Amz-Expires=3600&X-Amz-Signature=2c8a9cd03752933c2adbc0471ec9b40178a048ed05f7eaf5b52c9a42003292c9&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc58057232d6004dd1e2a0%2F533341.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          46.68184809214082,
+          610.9969465041752,
+          51.67173252279637,
+          120.71211463308725
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          148.78831076265146,
+          426.25742146257824,
+          28.10660472813001,
+          50.61605061605064
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "786350.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de664663ad78004e4285be/files/65dc537d496330004f0a023d/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          612.0721703121243,
+          561.0484588050062,
+          34.952337721289155,
+          187.0177031320926
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1072541.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de66e563ad78004e428655/files/65dc537d496330004f0a023f/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          204.19073772827443,
+          479.52399907948086,
+          115.54921540656204,
+          30.908226343318972
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1015535.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de6740496330004f152363/files/65dc537d496330004f0a024c/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          202.95794725588027,
+          120.54526015680685,
+          558.0898075552387,
+          191.01924447612257
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "533345.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de686063ad78004e429689/files/65dc537d496330004f0a0263/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc586e7232d6004dd1e399/533345.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183836Z&X-Amz-Expires=3600&X-Amz-Signature=27cac989cb9b88bd2d6e17116c50ae992c0d2b8f4276b543f7edb06c55ac7c72&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc586e7232d6004dd1e399%2F533345.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1.5765954746353055,
+          178.40197713465915,
+          147.8963025924352,
+          42.498937526561804
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          85.45149811303484,
+          109.60769805622539,
+          80.68938503721115,
+          16.842929886408143
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "582982.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de695b7232d6004ddb3eab/files/65dc537d496330004f0a0283/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          628.4746970776906,
+          510.424091233072,
+          157.51960085531005,
+          42.052744119743465
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "533344.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65de699563ad78004e42a1e2/files/65dc537d496330004f0a0289/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          248.60891282332756,
+          322.24959023842143,
+          113.7947050627032,
+          49.233627496516476
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1127035.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df651f63ad78004e472d30/files/65dc537d496330004f0a028f/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          2616.675845787509,
+          2220.01133675851,
+          594.7209168359454,
+          45.230573325652585
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1035157.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df6872496330004f196122/files/65dc537d496330004f0a02a9/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          78.0240055147804,
+          279.238227689647,
+          23.80952380952381,
+          470.69597069597074
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "533554.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df68b8496330004f196194/files/65dc537d496330004f0a02ae/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          279.6782440921869,
+          441.77024664983503,
+          51.55195681511475,
+          5.668016194331983
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1035156.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df6e3a63ad78004e473a7e/files/65dc537d496330004f0a02f5/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          430.00944317641773,
+          438.52518697600766,
+          29.520295202952013,
+          309.9630996309963
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "927333.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df6f2e496330004f196399/files/65dc537d496330004f0a0307/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5a2873e511004d56d1d8/927333.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183921Z&X-Amz-Expires=3600&X-Amz-Signature=4fb72be28fea55ee03b7078d86b108d0247273500c8a53887919aec34674f17a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5a2873e511004d56d1d8%2F927333.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          734.0404229884484,
+          435.53793698078977,
+          88.61646234676016,
+          14.711033274956208
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          818.3633178744234,
+          383.5631829080935,
+          39.16990920881983,
+          69.7795071335928
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "582845.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df6f8e63ad78004e473b2b/files/65dc537d496330004f0a030a/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          549.7031108583838,
+          498.80741663570734,
+          16.787264833574568,
+          120.40520984081047
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "555660.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df708a496330004f196404/files/65dc537d496330004f0a0312/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1.0143773636906228,
+          324.07167952432656,
+          591.9676216066076,
+          71.22352342770296
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1071809.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df725863ad78004e473c2f/files/65dc537d496330004f0a0338/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5aa67232d6004dd1e874/1071809.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T183937Z&X-Amz-Expires=3600&X-Amz-Signature=f54d87292796e0fab3b7edae64b687c4ed0f07cd607554602ed72649800a1816&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5aa67232d6004dd1e874%2F1071809.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          314.3911439114391,
+          0.3032910607936283,
+          23.314732502106494,
+          388.1653436255532
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          308.3091590080324,
+          399.81665600635023,
+          19.158291457286452,
+          349.8743718592967
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "894852.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df73ac63ad78004e473ccc/files/65dc537d496330004f0a034e/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          151.72039484144108,
+          -0.35323676283841077,
+          183.62883689722014,
+          623.0788973260884
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "533080.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df74927232d6004ddfb784/files/65dc537d496330004f0a0352/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          678.8032175699035,
+          0.4811782739592977,
+          7.032348804500771,
+          19.127988748241936
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "583025.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df74d27232d6004ddfb7ae/files/65dc537d496330004f0a0353/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          355.8968195045111,
+          455.1990831166301,
+          249.59742351046725,
+          55.3945249597424
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1015551.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df75a6496330004f19668b/files/65dc537d496330004f0a035d/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          408.4372810073567,
+          282.28807239101167,
+          129.67581047381537,
+          71.82044887780552
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1031624.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df7653496330004f1966c4/files/65dc537d496330004f0a0371/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          617.3994024292716,
+          394.8405950578916,
+          8.695652173913118,
+          163.28502415458945
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1126370.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df76917232d6004ddfb82d/files/65dc537d496330004f0a0374/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -0.9677169440327501,
+          2612.988929889299,
+          4035.7195571955726,
+          223.17343173431755
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "533323.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65df7876496330004f196796/files/65dc537d496330004f0a037a/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          97.15335138563952,
+          491.0362226727224,
+          51.016635859519425,
+          9.61182994454714
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "533342.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0c449c4fa0d004e5ebebe/files/65dc537c496330004f0a001b/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc53b973e511004d56c079/533342.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184037Z&X-Amz-Expires=3600&X-Amz-Signature=0dbfbd8cad7d937c542004ebd6f96640906b1adfa285b5dd850b8ef0c8128348&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc53b973e511004d56c079%2F533342.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc53b973e511004d56c079/533342.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184040Z&X-Amz-Expires=3600&X-Amz-Signature=ba413abf0d0cb3f858a0ba90524bbc178f78518acced4de22bfec992f8f8030c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc53b973e511004d56c079%2F533342.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          192.75566249136523,
+          578.0106438248497,
+          64.98194945848388,
+          14.440433212996481
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          193.65346598508168,
+          538.2789331166434,
+          15.638575152041739,
+          47.26324934839283
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          624.8899003185618,
+          515.101893132496,
+          19.13774973711884,
+          46.477392218717114
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1034276.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0c5f35bb281004e6683b4/files/65dc537c496330004f0a0042/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          632.8728051060039,
+          359.52508934538173,
+          64.56692913385825,
+          78.7401574803149
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "583019.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0c6e8c4fa0d004e5ec06d/files/65dc537c496330004f0a0088/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc54a773e511004d56c50d/583019.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184048Z&X-Amz-Expires=3600&X-Amz-Signature=9b9013b18ecd47a5f589357ab201ae04e381e6f3ac2a59c400f72bc85b9faa9b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc54a773e511004d56c50d%2F583019.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          571.5867158671587,
+          -0.06397477767880251,
+          302.5830258302583,
+          98.70848708487085
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          444.02435108516545,
+          91.15667654536742,
+          40.51355206847364,
+          29.38659058487876
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "894941.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0c766c4fa0d004e5ec0a7/files/65dc537c496330004f0a0063/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc544773e511004d56c416/894941.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184055Z&X-Amz-Expires=3600&X-Amz-Signature=904e30634d904bc8c9cfc8eb68e8126f35b528da3a1c2f123808e4072b432a0c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc544773e511004d56c416%2F894941.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          831.8629696089022,
+          375.9963345601091,
+          38.112522686025386,
+          36.66061705989114
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          829.5583161905372,
+          275.188103833316,
+          41.64859002169203,
+          136.65943600867683
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "689878.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0d1d5c4fa0d004e5ec1fe/files/65dc537d496330004f0a02e0/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc59b873e511004d56d0e6/689878.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184202Z&X-Amz-Expires=3600&X-Amz-Signature=b94eb5da68496f346ba7124041ecf396f1e1f05d36168e7ce169f97e55ee5a7b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc59b873e511004d56d0e6%2F689878.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc59b873e511004d56d0e6/689878.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184208Z&X-Amz-Expires=3600&X-Amz-Signature=fc512a508220c9ffb77aeef44964f832289d566dc75d2ef9a02142abe28deb70&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc59b873e511004d56d0e6%2F689878.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc59b873e511004d56d0e6/689878.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184214Z&X-Amz-Expires=3600&X-Amz-Signature=72f5dd7e98dc56cd035101fba210f2c0a27ebd1f6fd56188124e2ea13d47d8ff&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc59b873e511004d56d0e6%2F689878.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1168.8692863410351,
+          781.4440146651077,
+          375.2301423612855,
+          180.51612254137524
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1635.5479568854125,
+          965.6026537883297,
+          160.68875496431247,
+          93.5018190907324
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1473.4516902619782,
+          932.7133331178652,
+          59.45521677542206,
+          175.0885911339201
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1298.4512272219972,
+          1053.0620871696478,
+          226.83448497237737,
+          84.12630298525119
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1044247.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0d2bf5bb281004e668920/files/65dc537d496330004f0a0311/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          17.656424227793707,
+          146.99250497177871,
+          429.2834890965732,
+          38.00623052959503
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "653334.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0d37dc4fa0d004e5ec2b8/files/65dc537d496330004f0a039f/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          402.07224141705933,
+          506.59173559897647,
+          12.445730824891484,
+          61.93921852387848
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1031625.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0d4435bb281004e668a0b/files/65dc537d496330004f0a03aa/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5bc67232d6004dd1eb07/1031625.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184229Z&X-Amz-Expires=3600&X-Amz-Signature=18a25d0f6b77f038fdddc8aa81f737a82a7b78f3c43fb67719a934ea113d1933&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5bc67232d6004dd1eb07%2F1031625.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5bc67232d6004dd1eb07/1031625.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184231Z&X-Amz-Expires=3600&X-Amz-Signature=e406c41cf2c08286ffd33891f6f27eb25c6fc1f24c93d4e381f3640eac7a76f9&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5bc67232d6004dd1eb07%2F1031625.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          632.9582487985938,
+          350.913274601524,
+          35.45706371191136,
+          234.34903047091393
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          144.93125578687173,
+          267.88555408745185,
+          854.9783549783557,
+          83.17872603586898
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          609.4340866001604,
+          307.78041844320546,
+          8.50642927794263,
+          46.09297725024737
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "582843.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0e1f17232d6004de5b186/files/65dc537d496330004f0a03ce/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          851.5825357256776,
+          670.7638381927691,
+          52.69943593875905,
+          79.29089443996781
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1034349.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0e3c5c4fa0d004e5ec886/files/65dc537d496330004f0a03ee/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -0.2505148252543683,
+          333.4104863898132,
+          425.4498714652956,
+          34.27592116538136
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "583023.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0e44d7232d6004de5b33d/files/65dc537d496330004f0a0411/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5cc873e511004d56d7f8/583023.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184243Z&X-Amz-Expires=3600&X-Amz-Signature=2c7f1aa45cdbb2cb137487db004bb328ab87ff1fd086872bb4f6f0a89a0ccad8&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5cc873e511004d56d7f8%2F583023.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          268.46851679018283,
+          219.1618372499001,
+          71.63232963549927,
+          30.427892234548352
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          710.4691529148794,
+          16.3672865546113,
+          98.13874788494093,
+          47.71573604060919
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1109195.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0e4ee5bb281004e669093/files/65dc537d496330004f0a0418/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          0.4291806131037876,
+          613.0954229532397,
+          999.9112122406711,
+          51.7403445059706
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "645035.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0e598c4fa0d004e5ec976/files/65dc537d496330004f0a044d/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          281.59369832857305,
+          256.57648462161353,
+          19.448094612352236,
+          15.243101182654414
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1033747.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0e6157232d6004de5b42b/files/65dc537d496330004f0a043a/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5d367232d6004dd1ee4f/1033747.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184257Z&X-Amz-Expires=3600&X-Amz-Signature=a1334f759716fd39a3fa13ac5476b456160b406abca578cabab137b1233a456a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5d367232d6004dd1ee4f%2F1033747.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5d367232d6004dd1ee4f/1033747.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184259Z&X-Amz-Expires=3600&X-Amz-Signature=373982191d07e43920d455dd6bc554d5ef1d753cfb9b8f5c4e7afd80dc1949f7&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5d367232d6004dd1ee4f%2F1033747.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5d367232d6004dd1ee4f/1033747.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184301Z&X-Amz-Expires=3600&X-Amz-Signature=003876a0c08269d47185a6175e4b53b5ddcaa72bba0b0c5256f3fa9531e64015&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5d367232d6004dd1ee4f%2F1033747.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5d367232d6004dd1ee4f/1033747.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184303Z&X-Amz-Expires=3600&X-Amz-Signature=664b6eb15d7fdb6b7561ce3b7af61eff1ebdd3ab4d44e2323664ba7bc6650e1c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5d367232d6004dd1ee4f%2F1033747.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          0.13841140689310244,
+          372.60497832768755,
+          63.401670463173886,
+          22.779043280182293
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          51.73174589705153,
+          0.1374228406930546,
+          112.6373626373626,
+          385.9890109890109
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          68.26577920478096,
+          339.520145353699,
+          27.287853577371067,
+          115.4742096505824
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          837.4538745387454,
+          0.09225092250922509,
+          67.15867158671585,
+          376.3837638376384
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          880.7055491895538,
+          360.51748855381817,
+          119.56224350205207,
+          13.953488372093034
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "927320.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0e73f5bb281004e66917e/files/65dc537d496330004f0a041d/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          630.0668840802742,
+          229.5867132017362,
+          370.1968134957825,
+          54.35801312089973
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "649800.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0e7fcc4fa0d004e5eca9c/files/65dc537d496330004f0a0453/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          665.2305293051057,
+          251.3759641630247,
+          6.514657980455922,
+          28.230184581976147
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "904048.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0e8525bb281004e669217/files/65dc537d496330004f0a0430/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          339.00813808863137,
+          40.58904864157381,
+          661.6678858814923,
+          87.4177029992685
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "645034.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0ea93c4fa0d004e5ece06/files/65dc537d496330004f0a0466/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          288.0893103251169,
+          321.63355583641885,
+          45.783132530120554,
+          32.01376936316694
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "582896.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0eb21c4fa0d004e5ece54/files/65dc537d496330004f0a0471/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5dcb73e511004d56dbb8/582896.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184327Z&X-Amz-Expires=3600&X-Amz-Signature=f3d42141e0466457fbb931c588d038e6d4c795a17bfb3893ffee1a23dbea65c0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5dcb73e511004d56dbb8%2F582896.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          57.473875993043706,
+          307.26081677252193,
+          63.746958637469575,
+          331.8734793187348
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          789.6216149370537,
+          411.74108212997356,
+          182.55977496483843,
+          24.75386779184248
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "583006.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0ece8c4fa0d004e5ecf88/files/65dc537d496330004f0a04ed/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5f2a7232d6004dd1f5a5/583006.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184338Z&X-Amz-Expires=3600&X-Amz-Signature=876730add3868a576f168bb23588dfa6283133ef0f8df80e5dfd56b589054ab4&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5f2a7232d6004dd1f5a5%2F583006.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          241.906486308538,
+          335.8767645599222,
+          41.54460719041279,
+          19.97336884154464
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          268.7177854016457,
+          306.8658270223803,
+          24.85306465155338,
+          37.11167086481953
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "539764.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0edf5c4fa0d004e5ed0d3/files/65dc537d496330004f0a04a0/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          758.2873909007435,
+          7.058145913996838,
+          184.176394293126,
+          28.79377431906618
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "960304.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0ef0c7232d6004de5bd88/files/65dc537d496330004f0a0505/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5f6d73e511004d56df28/960304.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184350Z&X-Amz-Expires=3600&X-Amz-Signature=64f02f14f007afea319e186f865bfd56e2c2069b7cedf1b7cd9771485abc76a8&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5f6d73e511004d56df28%2F960304.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5f6d73e511004d56df28/960304.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184353Z&X-Amz-Expires=3600&X-Amz-Signature=39de8c79050598291007c2393dace328e05305a0e4bc13742fe714f06c856ba7&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5f6d73e511004d56df28%2F960304.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          927.4672003737074,
+          175.609153063034,
+          16.433239962651783,
+          51.16713352007477
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          402.14140433106036,
+          310.3376706496156,
+          5.3282588011417715,
+          24.92863939105615
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          456.4040497673512,
+          291.15936409653705,
+          7.0138150903294445,
+          23.379383634431463
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "600389.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0f0015bb281004e669d71/files/65dc537d496330004f0a04db/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          442.9918750161239,
+          513.0065514785558,
+          163.40956340956348,
+          17.047817047817034
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "600388.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0f02ac4fa0d004e5ed233/files/65dc537d496330004f0a0496/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          672.2533617741237,
+          436.831732241373,
+          103.51617440225039,
+          14.064697609001428
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1012974.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0f0ed7232d6004de5be3f/files/65dc537d496330004f0a04d4/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5ee173e511004d56de10/1012974.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184406Z&X-Amz-Expires=3600&X-Amz-Signature=8bed34642b08e869375f74c8f23f79f88228e5ec91a604a0514b8cbaedf1fbd4&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5ee173e511004d56de10%2F1012974.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5ee173e511004d56de10/1012974.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184409Z&X-Amz-Expires=3600&X-Amz-Signature=26822a66f34945841ecb02caf6caccda9959521c0ec544ced0f2fb529ecab06a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5ee173e511004d56de10%2F1012974.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5ee173e511004d56de10/1012974.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184417Z&X-Amz-Expires=3600&X-Amz-Signature=33e5cb1a5937ac2148d8531e04fc1ece5a5978e22ceb84eb3bd1d40b82c9a943&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5ee173e511004d56de10%2F1012974.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          565.408287836127,
+          223.60357459913337,
+          99.24357034795776,
+          93.49470499243574
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          440.28831429812516,
+          227.00043938538488,
+          128.6563614744353,
+          29.726516052318686
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          0.04868836825985245,
+          348.31908672622046,
+          33.123749416724074,
+          20.072890625954926
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          22.448486960904685,
+          87.80402572225844,
+          59.97818974918209,
+          264.9945474372954
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1063396.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e0f1d1c4fa0d004e5ed6b3/files/65dc537d496330004f0a04e8/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1.2915129151291513,
+          413.3763837638376,
+          469.37269372693726,
+          163.09963099630994
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "645012.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e6356514c1fa004dc550c1/files/65dc537d496330004f0a050d/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          294.69793770013655,
+          446.55757271858437,
+          61.324041811846826,
+          6.736353077816489
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "927306.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e635d814c1fa004dc555bb/files/65dc537d496330004f0a0498/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5e46496330004f0a27ea/927306.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184436Z&X-Amz-Expires=3600&X-Amz-Signature=be66b7db7c98768ceeba13f7fc264e8e668d80158e08e6abbe36a988eee87d5b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5e46496330004f0a27ea%2F927306.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc5e46496330004f0a27ea/927306.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184439Z&X-Amz-Expires=3600&X-Amz-Signature=23255d5ff1526c446728874928999a0c44cf8bc57e52fbaf1cb7d0b273596c57&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc5e46496330004f0a27ea%2F927306.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          862.7704973025883,
+          602.0917999791023,
+          137.4068554396424,
+          8.643815201192183
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          773.0636223827784,
+          293.2193127302218,
+          172.34314980793874,
+          33.29065300896292
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          729.9996171167934,
+          67.29399686992971,
+          145.2658884565501,
+          44.0985732814527
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "649824.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e639d614c1fa004dc57554/files/65dc537d496330004f0a04ba/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          313.29697089300515,
+          0.07985819435846855,
+          148.72360865660806,
+          749.0212000622507
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "951443.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e63af9cc924b004fd15191/files/65dc537d496330004f0a051d/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          201.18739951444456,
+          363.15410626016364,
+          77.4032459425718,
+          7.740324594257174
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "841056.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e63c08cc924b004fd15335/files/65dc537d496330004f0a0537/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          0.3906527681739342,
+          0.2085743274243842,
+          133.4500875656743,
+          378.28371278458854
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "960305.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e63c5f14c1fa004dc585c5/files/65dc537d496330004f0a0524/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          847.494161176429,
+          79.91058756741407,
+          12.415654520917656,
+          63.96761133603246
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1124422.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65e63f6c14c1fa004dc5a462/files/65dc537d496330004f0a0573/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          3204.590789217794,
+          1352.3678190253113,
+          163.05192713738688,
+          69.98246430232962
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "862846.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65f08227783120004d6a0065/files/65dc537d496330004f0a0591/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          119.3946432269466,
+          510.4100887017799,
+          65.13589503280222,
+          196.81349578256794
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "533348.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65f32a683948dc004d32f266/files/65dc537d496330004f0a0696/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          756.406200890187,
+          2.2069633279598455,
+          188.034188034188,
+          42.022792022792025
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "533349.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65f32a83f7fe2c004d6b7e16/files/65dc537d496330004f0a0671/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          612.7063628333067,
+          249.0245261984393,
+          114.97584541062827,
+          34.13848631239941
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "533370.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65f32aa4bcd37a005066c378/files/65dc537d496330004f0a06ce/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          273.55183668152074,
+          321.0859329562489,
+          54.38898450946647,
+          67.12564543889846
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "582838.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65f32bc0f7fe2c004d6b7e95/files/65dc537d496330004f0a0663/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          488.55127428360373,
+          395.1312838411347,
+          37.27034120734908,
+          234.6456692913386
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "653215.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65f32cd13948dc004d32f381/files/65dc537d496330004f0a0648/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          211.47886131477318,
+          397.9280064061639,
+          38.70967741935485,
+          231.08504398826977
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "653216.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65f32cf2bcd37a005066c46f/files/65dc537d496330004f0a06a1/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          49.2619926199262,
+          420.01845018450183,
+          56.82656826568266,
+          328.41328413284134
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "676378.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65f32d8b3948dc004d32f3d4/files/65dc537d496330004f0a0562/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc6077496330004f0a2e04/676378.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184530Z&X-Amz-Expires=3600&X-Amz-Signature=f1661f957d3e35cc864cdd9f6f4ac96a799556024936886146496c3525599d96&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc6077496330004f0a2e04%2F676378.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          0.9950549166248751,
+          391.12224416102896,
+          464.6080760095012,
+          35.629453681710174
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          460.83385477277903,
+          375.2952455353799,
+          22.50396196513475,
+          52.614896988906594
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "689874.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65f32decbcd37a005066c4d6/files/65dc537d496330004f0a0634/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          1015.4064485195345,
+          1364.0399567098818,
+          1048.0109898055093,
+          478.09124430626844
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "786349.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/65f32eeff7fe2c004d6b7ff3/files/65dc537d496330004f0a06ba/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          100.94222731292338,
+          123.52611224268172,
+          39.91130820399111,
+          109.53436807095345
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "863531.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/660470f354996c004d0ae3b7/files/65dc537d496330004f0a06a5/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          112.73062730627306,
+          515.959409594096,
+          68.63468634686346,
+          191.88191881918817
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "875752.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/66047143077e6d004d815cf0/files/65dc537d496330004f0a06ec/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          348.3994020004509,
+          459.4081109621386,
+          180.7073954983922,
+          44.37299035369773
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "894999.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/660472b1077e6d004d815d24/files/65dc537d496330004f0a0678/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          159.4206707970399,
+          481.24725602603377,
+          56.27836611195161,
+          33.58547655068077
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "985471.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/660472ec378012004eb236e3/files/65dc537d496330004f0a0616/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          -2.370091770778869,
+          259.4304477527534,
+          924.3542435424354,
+          328.4132841328413
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "951751.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/6604731654996c004d0ae429/files/65dc537d496330004f0a0711/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          785.9778597785977,
+          0.0003827839108217426,
+          214.0221402214022,
+          523.0627306273063
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1125638.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/660473f9077e6d004d815da8/files/65dc537d496330004f0a060e/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          161.3681266382438,
+          1339.4034640339003,
+          306.89808038141416,
+          99.48893814562325
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1015474.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/66047502378012004eb2398d/files/65dc537d496330004f0a06da/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          385.57616509628474,
+          316.60293611108574,
+          280.3149606299212,
+          108.13648293963251
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1106971.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/6604765154996c004d0aecb1/files/65dc537d496330004f0a06c9/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc640273e511004d56f2e1/1106971.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184632Z&X-Amz-Expires=3600&X-Amz-Signature=5b57aef9999515650b3b0977407184280daca2078f305cddbe6d00c77a42e24e&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc640273e511004d56f2e1%2F1106971.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          475.46125461254616,
+          82.77735363560534,
+          35.05535055350555,
+          420.66420664206635
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          424.6962103603433,
+          55.08392959309425,
+          55.3945249597424,
+          28.985507246376834
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1035176.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/6604769b077e6d004d81642b/files/65dc537d496330004f0a070f/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          420.479704797048,
+          375.7380073800738,
+          66.42066420664207,
+          372.6937269372694
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1073257.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/660479f254996c004d0af2ee/files/65dc537d496330004f0a06e9/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          273.971426880044,
+          160.67134334444935,
+          63.458110516934084,
+          21.390374331550817
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1124421.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/66047a78077e6d004d816aba/files/65dc537d496330004f0a05e3/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          3530.7914452893706,
+          457.6896502785176,
+          215.79778496105155,
+          159.1775740554288
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "951445.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/66047baa077e6d004d816b57/files/65dc537d496330004f0a05dc/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          205.37757773037114,
+          450.21963610674806,
+          75.76374745417516,
+          28.10590631364562
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "947295.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/66047c85378012004eb2468d/files/65dc537d496330004f0a0683/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          585.3948480548838,
+          396.4218967205488,
+          73.58121330724077,
+          19.96086105675147
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1059492.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/66047d4954996c004d0af529/files/65dc537d496330004f0a0676/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          433.02583025830256,
+          251.01476014760146,
+          71.58671586715872,
+          69.37269372693726
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "900097.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/66047d62077e6d004d816d1d/files/65dc537d496330004f0a065d/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          587.269372693727,
+          197.14022140221402,
+          84.13284132841329,
+          31.734317343173416
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1020974.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/66047e1954996c004d0af58d/files/65dc537d496330004f0a06fa/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          344.87812635410245,
+          539.0009962551189,
+          49.40867279894883,
+          21.024967148488827
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "582889.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/66047ea254996c004d0af5e6/files/65dc537c496330004f0a0110/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          718.1463974760594,
+          285.14369962430743,
+          126.88821752265858,
+          22.356495468277956
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "583027.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/66047ec4077e6d004d816de7/files/65dc537c496330004f0a0090/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          774.9309116467787,
+          176.31066536725612,
+          169.69696969696975,
+          51.08225108225108
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "645033.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/66047f00077e6d004d816e21/files/65dc537c496330004f0a0097/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          53.37472123870761,
+          517.4623554766968,
+          102.80373831775701,
+          85.35825545171338
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "854868.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/660c06c9f263e7004dbeae00/files/65dc537c496330004f0a00d9/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc553973e511004d56c6a1/854868.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184719Z&X-Amz-Expires=3600&X-Amz-Signature=6e92dd6247c07a0dbff9f7803a3ef40d95f073318b9949a3327710d9fd571c43&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc553973e511004d56c6a1%2F854868.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          146.54559196194364,
+          293.6629491079763,
+          151.4629948364889,
+          15.146299483648932
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          462.27460806897693,
+          307.58280919404103,
+          63.405088062622326,
+          14.872798434442245
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1034408.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/660c0718f263e7004dbeae38/files/65dc537c496330004f0a00e1/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          176.76597481809958,
+          26.56895703001265,
+          62.03904555314534,
+          47.722342733188725
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1020735.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/660c088cf263e7004dbeb01d/files/65dc537c496330004f0a0103/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          437.8401090045384,
+          714.5968528650805,
+          28.73563218390808,
+          15.804597701149419
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "653202.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/660c0c26f263e7004dbebd1d/files/65dc537c496330004f0a0150/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          649.0977812591425,
+          189.7280603240816,
+          36.82864450127886,
+          341.17647058823513
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "932395.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/660c0c5de87551004fa70102/files/65dc537c496330004f0a015a/signedUrl"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          417.9352055371303,
+          399.20708799233,
+          192.14501510574007,
+          44.10876132930514
+        ]
+      }
+    ]
+  },
+  {
+    "image_file_name": "1015489.jpg",
+    "image_urls": [
+      "https://platform.skand.io/api/v3/resources/reports/665e0f5e924863004d5abaa5/annotations/660c0ce9053573004f6d34ed/files/65dc537c496330004f0a0175/signedUrl",
+      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc56ad73e511004d56c9da/1015489.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240702%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240702T184746Z&X-Amz-Expires=3600&X-Amz-Signature=00f9a028b26fd1dd8f7c8ae5afb39bf26eb97acff57f391bfe63e7745b9f10b3&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc56ad73e511004d56c9da%2F1015489.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
+    ],
+    "annotations": [
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          512.730627306273,
+          611.90036900369,
+          138.7453874538745,
+          59.04059040590414
+        ]
+      },
+      {
+        "label": "Seam Taping-Damaged",
+        "bbox": [
+          507.56457564575646,
+          511.5313653136531,
+          51.660516605166094,
+          154.24354243542433
+        ]
+      }
+    ]
+  }
+]
