@@ -17,6 +17,7 @@ def polygon_to_bbox(polygon):
         "height": height
     }
 
+
 def points_to_bbox(points):
     x_coords = [point['x'] for point in points]
     y_coords = [point['y'] for point in points]
@@ -25,5 +26,21 @@ def points_to_bbox(points):
     width = max(x_coords) - x_min
     height = max(y_coords) - y_min
     return [x_min, y_min, width, height]
+
+
+def xywh_to_xyxy(xywh):
+    x, y, w, h = xywh
+    x2 = x + w
+    y2 = y + h
+    xyxy = [x, y, x2, y2]
+    return xyxy
+
+
+def xyxy_xywh(xyxy):
+    x, y, x2, y2 = xyxy
+    w = x2 - x
+    h = y2 - y
+    xywh = [x, y, w, h]
+    return xywh
 
 
