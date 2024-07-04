@@ -402,15 +402,6 @@
           13.115459041066401,
           13.115459041066401
         ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          571.4731585518102,
-          200.7061485642946,
-          0.0,
-          0.0
-        ]
       }
     ]
   },
@@ -1775,23 +1766,6 @@
     ]
   },
   {
-    "image_file_name": "674932.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65bd1f6c6f4b63004d03d049/files/659e8c70dc3272005048f9f4/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -0.5985631929599722,
-          529.5581706058283,
-          39.257673090649526,
-          39.25767309064952
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "694025.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65bd1f946f4b63004d03d074/files/659e8c70dc3272005048f9fa/signedUrl"
@@ -1916,23 +1890,6 @@
           420.28778101582014,
           124.06328059950044,
           70.77435470441299
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "969596.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65bd205d6f5f12004f2435ed/files/6595616c7c7660004f832dee/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -0.20815986677768525,
-          121.37021232306411,
-          41.63197335553705,
-          28.30974188176519
         ]
       }
     ]
@@ -2501,23 +2458,6 @@
           180.87288560656432,
           56.51274982770502,
           47.55341144038593
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "740327.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65bd26b46f4b63004d03d524/files/659e8c70dc3272005048fa66/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -1.0407993338884263,
-          47.26529975020816,
-          359.70024979184006,
-          99.08409658617819
         ]
       }
     ]
@@ -3465,23 +3405,6 @@
     ]
   },
   {
-    "image_file_name": "712333.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65bd3204049e04004e800432/files/659e8c728be472004f0a3c64/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          450.20040053723994,
-          -0.9130123500407966,
-          151.28449096098961,
-          436.72692673644156
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "1089872.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65bd32176f5f12004f2441ac/files/659e8c728be472004f0a3c6b/signedUrl"
@@ -3582,23 +3505,6 @@
           265.1102456974906,
           13.972055888223565,
           14.770459081836293
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "712285.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65c112462f0d33004fe887c2/files/659e8c728be472004f0a3c73/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -1.6657533127662651,
-          0.9175070292407921,
-          235.6495468277946,
-          349.24471299093665
         ]
       }
     ]
@@ -3796,23 +3702,6 @@
           181.65954415954417,
           183.4757834757835,
           206.2678062678063
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "674935.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65c113ac2f0d33004fe888ca/files/659e8c728be472004f0a3c72/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -0.14245014245014245,
-          149.75071225071224,
-          20.51282051282051,
-          32.478632478632505
         ]
       }
     ]
@@ -4251,23 +4140,6 @@
     ]
   },
   {
-    "image_file_name": "641041.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65c119eb2f0d33004fe88bb3/files/659e8c728be472004f0a3cbd/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -1.2194345257638952,
-          257.2726341248005,
-          43.665768194070075,
-          114.82479784366575
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "693891.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65c11a0573c635004fffa0ba/files/659e8c728be472004f0a3cbe/signedUrl"
@@ -4672,23 +4544,6 @@
           193.66315544121386,
           28.644501278772395,
           327.36572890025576
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "657392.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65c11cea419a8c004de54e6e/files/659e8c728be472004f0a3ce2/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -0.14245014245014245,
-          88.78205128205128,
-          84.9002849002849,
-          159.54415954415953
         ]
       }
     ]
@@ -5510,15 +5365,6 @@
           34.04885270170243,
           25.166543301258315
         ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          754.9958368026644,
-          -1.8604288093255619,
-          65.77851790174861,
-          106.57785179017483
-        ]
       }
     ]
   },
@@ -6233,15 +6079,6 @@
       "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/659e90028be472004f0a4bdb/674949.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240630%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240630T103308Z&X-Amz-Expires=3600&X-Amz-Signature=09e2fb83d618d2abda8e7d43681968644f121bc4167e7bab52ea2ca98f9362a9&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F659e90028be472004f0a4bdb%2F674949.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
     ],
     "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -0.15937890510106426,
-          12.806836989834913,
-          82.77830637488107,
-          185.53758325404377
-        ]
-      },
       {
         "label": "WRB-Bad",
         "bbox": [
@@ -7243,23 +7080,6 @@
           206.1112255549113,
           27.837259100642314,
           28.551034975017842
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "674929.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65c3f261a5b28a004d93a5fb/files/659e8c728be472004f0a3dda/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          815.9005124914937,
-          -1.0041012283461779,
-          59.955588452997745,
-          30.347890451517387
         ]
       }
     ]
@@ -9335,15 +9155,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          379.16011528062506,
-          -4.5091838250586305,
-          96.03707995365005,
-          225.81691772885281
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           3360.574358974359,
           1299.9179487179485,
           105.68205128205136,
@@ -10133,15 +9944,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          -0.6766696335050729,
-          243.1090270196381,
-          64.17674907943186,
-          24.197790636507108
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           93.97901678812936,
           409.80687732027457,
           21.099389228206547,
@@ -10758,23 +10560,6 @@
     ]
   },
   {
-    "image_file_name": "1097929.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65d36a78a2b954004f70d67e/files/65cdc89da2b954004f662df2/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -0.5707999007906508,
-          646.2402026669367,
-          74.14571244358477,
-          43.1979368149581
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "1102474.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65d36a8c3c22f8004d225d27/files/65cdc89da2b954004f662dfe/signedUrl"
@@ -10824,23 +10609,6 @@
           69.074960409231,
           60.67094932191287,
           92.79086366880797
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "1099192.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65d36b10a2b954004f70d841/files/65cdc89da2b954004f662e22/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          154.581958865931,
-          -0.4132910490534003,
-          36.98150924537728,
-          46.476761619190384
         ]
       }
     ]
@@ -10942,15 +10710,6 @@
       "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdc915a2b954004f66335f/1097832.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240630%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240630T104602Z&X-Amz-Expires=3600&X-Amz-Signature=a7c1d03d2b151c1b9b25dcf2fb653ef27d3231358de4a71f80bb8e620722d2cf&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdc915a2b954004f66335f%2F1097832.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
     ],
     "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -2.2857155746464812,
-          168.5529223507321,
-          32.644903397734836,
-          199.20053297801462
-        ]
-      },
       {
         "label": "WRB-Bad",
         "bbox": [
@@ -11291,15 +11050,6 @@
           469.22576131275554,
           36.341611144760805,
           23.016353725015165
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -1.0489653219119799,
-          68.76079606958746,
-          132.76231263383298,
-          65.66738044254103
         ]
       }
     ]
@@ -12018,23 +11768,6 @@
     ]
   },
   {
-    "image_file_name": "1152141.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65d375a03c22f8004d22748f/files/65cdc68b2728e8004d472486/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          31.765445523962043,
-          -3.5002287785602255,
-          1990.1538461538464,
-          628.9230769230769
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "1152318.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65d375b7a2b954004f70edc8/files/65cdc68b2728e8004d472484/signedUrl"
@@ -12653,23 +12386,6 @@
     ]
   },
   {
-    "image_file_name": "1152373.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65d37a34a2b954004f70f7f5/files/65cdc68b2728e8004d4724b4/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -3.5881195313553045,
-          5.368924948996313,
-          125.17097581317763,
-          179.34945788156793
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "1008120.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65d37a52bcca96004d3048ce/files/65cdc68b2728e8004d4724b8/signedUrl"
@@ -13212,23 +12928,6 @@
     ]
   },
   {
-    "image_file_name": "843371.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65d37e46ef0cbd004e412f48/files/65cdbb852728e8004d46e15f/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          368.17416857076546,
-          -1.672391160420981,
-          62.91560102301787,
-          27.109974424552433
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "843421.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65d37ec4ef0cbd004e412f64/files/65cdbb852728e8004d46e1ac/signedUrl"
@@ -13268,33 +12967,6 @@
           502.1612106017178,
           47.20194647201936,
           44.76885644768856
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "861768.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65d37f34a2b954004f712e45/files/65cdbb852728e8004d46e191/signedUrl",
-      "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65cdbd62a2b954004f65ed2f/861768.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240630%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240630T105211Z&X-Amz-Expires=3600&X-Amz-Signature=c095dd96d9aef4ab66c9c6226370ba48a5323a4e161fb93fabb33f7a511d3e1b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65cdbd62a2b954004f65ed2f%2F861768.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          293.8746438746439,
-          -0.10683760683760685,
-          100.85470085470087,
-          60.96866096866097
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          630.9576420054123,
-          -0.725487506273169,
-          60.807600950118854,
-          71.73396674584325
         ]
       }
     ]
@@ -14742,15 +14414,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          408.1539772403454,
-          -0.008019506871286861,
-          56.60377358490564,
-          197.84366576819406
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           926.3834416622134,
           0.0723373355674748,
           74.01574803149606,
@@ -15107,23 +14770,6 @@
           331.52993371598586,
           50.209205020920535,
           23.245002324500206
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "1015490.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65dcac92496330004f0d83ef/files/65dc48e773e511004d567a0d/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          88.02777055096779,
-          -1.4122124939187009,
-          72.61825449700198,
-          35.97601598934043
         ]
       }
     ]
@@ -15819,23 +15465,6 @@
           221.1869274497156,
           63.18289786223278,
           90.2612826603326
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "1125142.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65dcb2b563ad78004e3a622e/files/65dc48e773e511004d567a55/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          2826.1981500690968,
-          -7.319798875129755,
-          351.68729641693744,
-          75.88273615635175
         ]
       }
     ]
@@ -17198,15 +16827,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          3364.3543975590474,
-          -3.987713616543854,
-          85.00351370344333,
-          75.55867884750526
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           3461.727050228593,
           1767.2583751158306,
           163.43973941368085,
@@ -17468,15 +17088,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          -1.7639117263801065,
-          0.6102728007575826,
-          77.37226277372264,
-          92.9440389294404
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           208.29134407507453,
           228.69660125185823,
           27.210884353741505,
@@ -17624,15 +17235,6 @@
           3.204052099285449,
           58.76010781671158,
           41.50943396226415
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          573.8268777118873,
-          -1.9394338830529598,
-          82.41469816272968,
-          112.33595800524934
         ]
       }
     ]
@@ -18379,15 +17981,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          205.60320123679955,
-          -0.8879327691120467,
-          134.61538461538467,
-          187.32193732193736
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           479.6296296296296,
           135.505698005698,
           53.561253561253636,
@@ -18774,15 +18367,6 @@
           12.199630314232877,
           15.89648798521256
         ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -5.0402795316214934,
-          464.5900700483256,
-          20.790020790020804,
-          14.968814968814968
-        ]
       }
     ]
   },
@@ -18896,15 +18480,6 @@
           19.95359628770302,
           24.129930394431597
         ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          684.1880341880342,
-          -0.6766381766381766,
-          127.06552706552714,
-          148.7179487179487
-        ]
       }
     ]
   },
@@ -18988,15 +18563,6 @@
       "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc54237232d6004dd1d77d/1125637.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240630%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240630T110807Z&X-Amz-Expires=3600&X-Amz-Signature=3ad3387096c2457b4412520181e1f5528d17d6fcc771fe1aed2124a859996cdc&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc54237232d6004dd1d77d%2F1125637.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
     ],
     "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          3047.9749799886345,
-          -3.5021056724906994,
-          160.48573163327228,
-          104.72374013357617
-        ]
-      },
       {
         "label": "WRB-Bad",
         "bbox": [
@@ -19426,15 +18992,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          -11.739265423119631,
-          2008.1490659544315,
-          558.276923076923,
-          813.2923076923075
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           2664.451282051282,
           803.6717948717948,
           631.7948717948716,
@@ -19818,15 +19375,6 @@
           192.03227433182064,
           161.53303076147245
         ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          2802.056091384547,
-          -0.14352763308483585,
-          152.0470336718331,
-          298.10796365579887
-        ]
       }
     ]
   },
@@ -20079,15 +19627,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          1911.6806780028917,
-          -5.9947687112479615,
-          216.24772313296876,
-          182.2465088038858
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           828.9022859700937,
           39.134016016500425,
           291.85667752443,
@@ -20281,15 +19820,6 @@
           511.201146766905,
           64.64208242950113,
           27.765726681127944
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -5.9723654006316345,
-          500.99378384276787,
-          26.45011600928075,
-          19.48955916473318
         ]
       }
     ]
@@ -20747,15 +20277,6 @@
           587.7523722996162,
           37.79527559055123,
           30.446194225721797
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          369.31483893280995,
-          -0.4397239937148228,
-          102.71903323262842,
-          128.7009063444109
         ]
       }
     ]
@@ -22382,23 +21903,6 @@
     ]
   },
   {
-    "image_file_name": "861261.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65e5edb68e60ac004fa10a51/files/65dc48e773e511004d567cc2/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          240.76264837953764,
-          -2.4897609225704453,
-          43.8810336421258,
-          18.52754753778644
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "947098.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65e5eded14c1fa004dc4c7ce/files/65dc48e773e511004d567cd4/signedUrl",
@@ -22920,15 +22424,6 @@
       "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc49067232d6004dd1aa46/1072557.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240630%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240630T111917Z&X-Amz-Expires=3600&X-Amz-Signature=f6e74f7bbbea19cc51ba1afa62a9900552f6f971f07171027d400fc311722ba4&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc49067232d6004dd1aa46%2F1072557.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
     ],
     "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          890.0127037521067,
-          -1.6658318573569304,
-          17.38626485076793,
-          11.301072152999136
-        ]
-      },
       {
         "label": "WRB-Bad",
         "bbox": [
@@ -24392,23 +23887,6 @@
     ]
   },
   {
-    "image_file_name": "684192.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65e60501cc924b004fd0a168/files/65dc48e273e511004d5676db/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          350.6179767903797,
-          -0.03343882043955981,
-          30.14861995753722,
-          65.39278131634823
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "538951.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65e6053f14c1fa004dc4d607/files/65dc48e273e511004d5676dc/signedUrl",
@@ -24940,40 +24418,6 @@
           347.49297791301296,
           18.208516886930965,
           10.572687224669608
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "1106952.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65e72a784c70b4004e2f20e0/files/65dc48e773e511004d567cf5/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -0.7122507122507122,
-          309.86467236467234,
-          301.99430199430196,
-          37.606837606837644
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "539939.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65e72a9f4c70b4004e2f2449/files/65dc48e773e511004d567cf7/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -1.6381126214418091,
-          431.0259441406295,
-          456.97632058287786,
-          269.28961748633884
         ]
       }
     ]
@@ -25817,15 +25261,6 @@
           381.2759858208725,
           21.656050955413946,
           22.505307855626313
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -1.7511016754582516,
-          416.13652382923806,
-          46.54731457800512,
-          37.85166240409205
         ]
       }
     ]
@@ -28967,23 +28402,6 @@
     ]
   },
   {
-    "image_file_name": "868397.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65ef465565d904004d48b3af/files/65dc48e773e511004d567ec0/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          641.7371025404268,
-          -0.05159378428076992,
-          131.30193905817168,
-          103.601108033241
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "718523.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65ef466b783120004d637e8e/files/65dc48e773e511004d567ec9/signedUrl"
@@ -29250,23 +28668,6 @@
           562.3033174288096,
           90.45521292217342,
           21.439060205580063
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "924600.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65ef4a9ade4836004f526fec/files/65dc48e773e511004d567ee8/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -0.9233631986521721,
-          509.6520354108262,
-          32.7790973871734,
-          124.46555819477442
         ]
       }
     ]
@@ -29564,15 +28965,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          344.1504244191517,
-          -1.1800866081864418,
-          56.686626746507045,
-          74.65069860279446
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           464.50035975095545,
           11.254392775164813,
           59.42350332594242,
@@ -29727,15 +29119,6 @@
           558.7763323709521,
           106.12535612535613,
           149.57264957264965
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -4.246276960958429,
-          233.47824971786187,
-          202.7700831024931,
-          331.3019390581718
         ]
       }
     ]
@@ -30475,15 +29858,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          -3.9364913676758984,
-          782.7301261811481,
-          140.0505963136971,
-          160.28912179255508
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           3030.6447194822986,
           1576.6724061098744,
           245.15960912052105,
@@ -30583,15 +29957,6 @@
           161.12578255931663,
           17.74491682070243,
           33.64140480591499
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          540.1647128614962,
-          -0.05966134351320435,
-          10.526315789473642,
-          32.304900181488236
         ]
       }
     ]
@@ -31213,23 +30578,6 @@
           497.1675415573053,
           241.4698162729659,
           117.58530183727032
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "649800.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65ef6605de4836004f528084/files/65dc48e773e511004d567fee/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -0.3716287969477394,
-          264.76947628173855,
-          67.3189823874756,
-          13.307240704500998
         ]
       }
     ]
@@ -32024,15 +31372,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          344.05031975191235,
-          -0.43844731620672933,
-          19.600725952813093,
-          79.85480943738665
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           528.0838657076397,
           151.32416081267667,
           20.65404475043033,
@@ -32274,23 +31613,6 @@
           258.00930767018224,
           23.35456475583868,
           45.01061571125268
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "1071836.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65f357acbcd37a005066d546/files/65dc48e273e511004d567743/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -2.2433643444421465,
-          654.8689437634198,
-          86.25336927223718,
-          32.88409703504044
         ]
       }
     ]
@@ -33027,23 +32349,6 @@
           164.7651501906055,
           26.6222961730449,
           13.31114808652248
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "1120505.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65f35f5fbcd37a005066de61/files/65dc48e273e511004d56779a/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          658.7897435897436,
-          -4.451282051282247,
-          519.7948717948717,
-          1671.3846153846155
         ]
       }
     ]
@@ -35699,23 +35004,6 @@
     ]
   },
   {
-    "image_file_name": "985439.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65f855ecf7fe2c004d7e214f/files/65dc48e773e511004d56818f/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          397.05226572234244,
-          -1.3443234530049486,
-          137.08439897698213,
-          89.00255754475704
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "746043.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65f856083948dc004d44c798/files/65dc48e773e511004d568190/signedUrl"
@@ -36120,15 +35408,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          799.0833783392651,
-          -0.7627168090516735,
-          18.655097613882845,
-          54.66377440347075
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           939.1078034578031,
           17.89118859043949,
           15.384615384615472,
@@ -36490,23 +35769,6 @@
     ]
   },
   {
-    "image_file_name": "1109210.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65f85c3ebcd37a0050785cbf/files/65dc48e773e511004d5681fd/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          307.2702444453644,
-          -3.1111117605169536,
-          116.26898047722352,
-          47.722342733188746
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "1090155.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65f85c8abcd37a0050785d1f/files/65dc48e773e511004d5681fe/signedUrl",
@@ -36708,15 +35970,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          728.6891448589157,
-          -0.14058907284877536,
-          86.25235404896443,
-          61.01694915254242
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           739.7244093052838,
           103.83986443758187,
           60.98003629764082,
@@ -36890,23 +36143,6 @@
           698.9128054323795,
           16.755793226381485,
           44.91978609625687
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "927310.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65f85f23bcd37a0050786191/files/65dc48e773e511004d568221/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -1.6226886131083966,
-          212.08716395301718,
-          126.53061224489801,
-          52.607709750566926
         ]
       }
     ]
@@ -37709,15 +36945,6 @@
           327.25141995389765,
           16.755793226381485,
           17.82531194295899
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -1.2794066406593256,
-          531.9621338166023,
-          102.55220417633414,
-          61.71693735498843
         ]
       }
     ]
@@ -39154,23 +38381,6 @@
     ]
   },
   {
-    "image_file_name": "829529.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65fb3fa5bcd37a005084f9ae/files/65dc48e773e511004d568379/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -1.6834801389062861,
-          269.3748044463459,
-          201.38355111452728,
-          136.0491929285165
-        ]
-      }
-    ]
-  },
-  {
     "image_file_name": "959970.jpg",
     "image_urls": [
       "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65fb40fcbcd37a005084faf1/files/65dc48e773e511004d568383/signedUrl",
@@ -39718,32 +38928,6 @@
           667.2439633638635,
           2773.888426311407
         ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          2801.8506227117105,
-          -5.045812065588112,
-          623.8015114786826,
-          3035.64237844004
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "967068.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65fb46d8bcd37a0050850011/files/65dc48e773e511004d5683ce/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -1.4682181186806955,
-          541.0455645195134,
-          177.64618800888226,
-          37.749814951887515
-        ]
       }
     ]
   },
@@ -39937,15 +39121,6 @@
           477.24797714465166,
           29.62015470377264,
           41.81668899356117
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          3213.2463318689656,
-          -4.26893497381984,
-          58.2134911242606,
-          106.88378698224848
         ]
       }
     ]
@@ -40186,23 +39361,6 @@
           507.7933290835672,
           12.418438223531894,
           13.681330246263883
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "786373.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/65fb4beabcd37a005085037b/files/65dc48e773e511004d568409/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -4.3713572023313905,
-          236.27445878434636,
-          174.8542880932556,
-          196.50291423813488
         ]
       }
     ]
@@ -40893,15 +40051,6 @@
       "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc6805496330004f0a4d6f/1034325.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240630%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240630T120738Z&X-Amz-Expires=3600&X-Amz-Signature=d541d21332cffb488e237ecd849d0e149fa5a9c47a0d18a5f91aa1db69c8049c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc6805496330004f0a4d6f%2F1034325.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
     ],
     "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -2.2659979314313765,
-          314.3592997552402,
-          485.56624722427824,
-          162.10214655810512
-        ]
-      },
       {
         "label": "WRB-Bad",
         "bbox": [
@@ -41603,23 +40752,6 @@
           382.22759938611495,
           99.13941480206552,
           34.07917383821001
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "958639.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/66018d51f25adf004d595a3d/files/65dc48e773e511004d56849c/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          183.06173509493212,
-          -1.5877616390318743,
-          9.220636663007696,
-          21.953896816685
         ]
       }
     ]
@@ -42332,15 +41464,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          347.36985958806076,
-          -2.3225415886817524,
-          95.78107183580386,
-          168.7571265678449
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           207.26495726495727,
           211.85897435897436,
           160.68376068376068,
@@ -42792,15 +41915,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          -6.410256410256411,
-          364.5655270655271,
-          82.62108262108262,
-          99.71509971509971
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           98.27944108553083,
           315.0049429688964,
           77.90973871733965,
@@ -43084,15 +42198,6 @@
           447.405487390415,
           8.305274971941685,
           7.856341189674481
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -0.6846103375761939,
-          128.94351906500245,
-          103.83631713554988,
-          124.80818414322249
         ]
       }
     ]
@@ -43489,37 +42594,10 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          565.6276471187032,
-          -0.2665559553466192,
-          105.06912442396322,
-          75.57603686635954
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           209.47893208363985,
           677.004988134613,
           9.099901088031658,
           10.286844708209628
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          755.0217040494324,
-          -0.891634342760139,
-          99.84871406959167,
-          33.58547655068084
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          901.3642030056453,
-          -1.7336701675419601,
-          88.1057268722468,
-          49.92657856093985
         ]
       }
     ]
@@ -43721,24 +42799,6 @@
           149.55493090395953,
           9.690154147975477,
           29.738933030647047
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          559.4866357701785,
-          -0.15340954816527558,
-          15.884476534296027,
-          64.71575381520428
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          595.1226888286332,
-          -0.07192441314757997,
-          4.314332270360865,
-          60.53596990278193
         ]
       }
     ]
@@ -44615,15 +43675,6 @@
           28.843106180665643,
           38.35182250396201
         ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          330.78137141377965,
-          -0.5270912873028033,
-          37.48712667353254,
-          42.01853759011335
-        ]
       }
     ]
   },
@@ -44860,23 +43911,6 @@
           927.4351724752648,
           1697.2307692307695,
           1938.4615384615383
-        ]
-      }
-    ]
-  },
-  {
-    "image_file_name": "1017072.jpg",
-    "image_urls": [
-      "https://platform.skand.io/api/v3/resources/reports/6662f7c2c262d9004e8e01e6/annotations/661d2dd73e49bf004fec28da/files/65dc48e273e511004d5678e1/signedUrl"
-    ],
-    "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          588.0786662762564,
-          -4.589260465134441,
-          149.12718204488783,
-          97.75561097256859
         ]
       }
     ]
@@ -45692,15 +44726,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          1185.740752028236,
-          -11.668862599824545,
-          2047.8934221482102,
-          2937.5520399666943
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           1105.7285746410548,
           1437.544190148918,
           45.06006891627612,
@@ -46383,15 +45408,6 @@
           555.1635812409025,
           15.446071904127791,
           15.978695073235713
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          472.5801055911853,
-          -1.2739156926832982,
-          9.89729225023342,
-          13.63211951447248
         ]
       },
       {
@@ -47440,24 +46456,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          789.0913418200562,
-          -0.5110692014975357,
-          138.12375249501008,
-          45.50898203592818
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          728.3525481533645,
-          -2.1748407635455087,
-          47.080979284369164,
-          40.30131826741999
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           231.7067733153425,
           194.69931446483466,
           13.403416557161648,
@@ -48007,15 +47005,6 @@
       {
         "label": "WRB-Bad",
         "bbox": [
-          57.083912482043985,
-          -1.720653010322831,
-          15.050651230101323,
-          31.837916063675873
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
           829.3868938403403,
           356.58327461391724,
           9.761634506242899,
@@ -48490,15 +47479,6 @@
           318.99429164199046,
           29.52243125904488,
           16.2083936324168
-        ]
-      },
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          676.5489043961497,
-          -1.3451603060087474,
-          30.711610486891345,
-          32.70911360799005
         ]
       },
       {
@@ -49036,15 +48016,6 @@
       "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65dc6c2773e511004d5726aa/894989.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240630%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240630T124030Z&X-Amz-Expires=3600&X-Amz-Signature=ea4f22529e7900bd11111f2515c3a0931e69e63f98229144c83ec464a089b37f&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65dc6c2773e511004d5726aa%2F894989.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
     ],
     "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          849.4012478252945,
-          -1.2442492933551477,
-          80.27842227378198,
-          150.34802784222742
-        ]
-      },
       {
         "label": "WRB-Bad",
         "bbox": [
@@ -52904,15 +51875,6 @@
       "https://s3.ap-southeast-2.amazonaws.com/skand.production.sites/622fda13b8cff3004d83216d/Files/65e7d0e5170f42004e408614/1181148.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIARTKBU62EL7PLJBPS%2F20240630%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20240630T130244Z&X-Amz-Expires=3600&X-Amz-Signature=8c15ecfa1434d642f94c6d5eb1122d9b759659ab026e20b098c96c9e132922c9&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22622fda13b8cff3004d83216d%2FFiles%2F65e7d0e5170f42004e408614%2F1181148.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject"
     ],
     "annotations": [
-      {
-        "label": "WRB-Bad",
-        "bbox": [
-          -9.808028047657317,
-          3.3135454734527414,
-          761.025641025641,
-          531.2820512820513
-        ]
-      },
       {
         "label": "WRB-Bad",
         "bbox": [

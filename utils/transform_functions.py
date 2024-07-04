@@ -44,3 +44,54 @@ def xyxy_to_xywh(xyxy):
     return xywh
 
 
+def convert_ground_truths(ground_truths):
+    images_ground_truths = []
+
+    for ground_truth in ground_truths:
+        image_gt = []
+        boxes = ground_truth['boxes']
+        labels = ground_truth['labels']
+
+        for i in range(len(labels)):
+            label = int(labels[i])  # Convert label to integer
+            box = boxes[i].tolist()  # Convert numpy array to list
+            xmin, ymin, xmax, ymax = box[0], box[1], box[2], box[3]
+            width = xmax - xmin
+            height = ymax - ymin
+            bounding_box = [xmin, ymin, width, height]
+
+            image_gt.append({'label': label, 'bounding_box': bounding_box})
+
+        images_ground_truths.append(image_gt)
+
+    return images_ground_truths
+
+
+def convert_predictions(predictions):
+    images_predictions = []
+
+    for image_pred in predictions:
+        image_predictions = []
+        boxes = image_pred['boxes']
+        labels = image_pred['labels']
+        scores = image_pred['scores']
+
+        for i in range(len(labels)):
+            label = int(labels[i])  # Convert label to integer
+            score = float(scores[i])  # Convert score to float
+            box = boxes[i].tolist()  # Convert numpy array to list
+            xmin, ymin, xmax, ymax = box[0], box[1], box[2], box[3]
+            width = xmax - xmin
+            height = ymax - ymin
+            bounding_box = [int(xmin), int(ymin), int(width), int(height)]  # Convert to integers
+
+            image_predictions.append({
+                'label': label,
+                'probability': score,
+                'bounding_box': bounding_box
+            })
+
+        images_predictions.append(image_predictions)
+
+    return images_predictions
+
