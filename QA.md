@@ -15,6 +15,15 @@ Accuracy, in the traditional sense of correctly predicting a class label for eac
 
 In summary, while accuracy can still be computed in the context of object detection (e.g., by considering correctly identified objects), it does not capture the nuances of object detection tasks, such as localization accuracy. Therefore, metrics like IoU, AP, mAP, precision, recall, and F1-score are more appropriate and commonly used for evaluating the performance of object detection models.
 
+[Complete Guide to Machine Learning Evaluation Metrics](https://medium.com/analytics-vidhya/complete-guide-to-machine-learning-evaluation-metrics-615c2864d916)
+
+[Metrics Matter: A Deep Dive into Object Detection Evaluation](https://medium.com/@henriquevedoveli/metrics-matter-a-deep-dive-into-object-detection-evaluation-ef01385ec62)
+
+[Object Detection Performance Metrics](https://www.coursera.org/lecture/computer-vision-with-embedded-machine-learning/object-detection-performance-metrics-zDIgp)
+
+[Performance Metrics Deep Dive](https://docs.ultralytics.com/guides/yolo-performance-metrics/)
+
+
 ### Choice of performance metrics for evaluating and optimizing object detection models
 
 The choice of performance metrics for evaluating and optimizing object detection models depends on the specific goals of your application and the characteristics of the dataset. Here are several commonly used metrics for object detection tasks:
@@ -55,6 +64,9 @@ The choice of performance metrics for evaluating and optimizing object detection
 In practice, it's often insightful to evaluate multiple metrics to get a comprehensive understanding of your model's performance. This approach helps in identifying strengths and weaknesses, guiding optimizations, and making informed decisions about model deployment.
 
 ## QAs for Azure Custom Vision
+
+   In Azure Custom Vision, we don't get the option to explicitly select the underlying object detection model type such as Faster R-CNN, YOLO, or SSD. Azure Custom Vision abstracts away these implementation details to provide a simplified and user-friendly interface for training and deploying custom object detection models.
+   While Azure Custom Vision simplifies the process of training and deploying object detection models, it does not provide the flexibility to choose specific underlying algorithms like Faster R-CNN or YOLO.
 
 ### In Azure Custom Vision Object Detection project, there are 2 thresholds (Probability Threshold and Overlap Threshold) and 3 metrics (Precision, Recall, and mAP) for trained model performance. Please explain these thresholds and metrics.
 
@@ -179,10 +191,6 @@ In this example:
 #### Conclusion
 
 Understanding and adhering to these dataset requirements and pipeline steps will help ensure compatibility and proper functioning when using TorchVision's Faster R-CNN for object detection tasks. Adjustments may be necessary based on specific dataset characteristics and training requirements.
-
-
-
-
 
 ### Optimizing hyperparameters for TorchVision's Faster R-CNN using ResNet50 as a backbone
 

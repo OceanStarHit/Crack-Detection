@@ -24,6 +24,7 @@ Create an AI Services - Custom Vision resource on Azure starting from here: [Hom
 
 Get the keys, ids, and endpoints: [Custom Vision - Settings](https://www.customvision.ai/projects#/settings)
 
+Save into [Environment File](<different-approaches/azure-custom-vision/.env>)
 
 ## Check and Update the Two Datasets
 
@@ -38,21 +39,28 @@ Please run the 5 notebooks in the subfolder '/dataset_check_update' before tryin
 
 - Azure Custom Vision
 
-    In Azure Custom Vision, we don't get the option to explicitly select the underlying object detection model type such as Faster R-CNN, YOLO, or SSD. Azure Custom Vision abstracts away these implementation details to provide a simplified and user-friendly interface for training and deploying custom object detection models.
-    While Azure Custom Vision simplifies the process of training and deploying object detection models, it does not provide the flexibility to choose specific underlying algorithms like Faster R-CNN or YOLO.
-
     * Dataset injection to Azure Custom Vision
-        + [SeamTaping Dataset Injection](<different-approaches/azure-custom-vision/1. SeamTaping_dataset-inject.ipynb>)
-        + [WRB Dataset Injection](<different-approaches/azure-custom-vision/1. WRB_dataset-inject.ipynb>)
+        + [SeamTaping Dataset Injection](<different-approaches/azure-custom-vision/1. inject-dataset__SeamTaping.ipynb>)
+        + [WRB Dataset Injection](<different-approaches/azure-custom-vision/1. inject-dataset__WRB.ipynb>)
 
     * Train Model
-        + [SeamTaping Model Training](<different-approaches/azure-custom-vision/2. SeamTaping_train-model.ipynb>)
-        + [WRB Model Training](<different-approaches/azure-custom-vision/2. WRB_train-model.ipynb>)
+        + [SeamTaping Model Training](<different-approaches/azure-custom-vision/2. train-model__SeamTaping.ipynb>)
+        + [WRB Model Training](<different-approaches/azure-custom-vision/2. train-model__WRB.ipynb>)
 
     * Evaluate Performance
-        + [SeamTaping Model Evaluation](<different-approaches/azure-custom-vision/3. WRB_evaluate-model.ipynb>)
-        + [WRB Model Evaluation](<different-approaches/azure-custom-vision/3. WRB_evaluate-model.ipynb>)
+        + [SeamTaping Model Evaluation](<different-approaches/azure-custom-vision/3. evaluate-model__SeamTaping.ipynb>)
+        + [WRB Model Evaluation](<different-approaches/azure-custom-vision/3. evaluate-model__WRB.ipynb>)
 
 - Fasteer R-CNN
+
+    * Prepare Dataset
+        + [For WRB](<different-approaches/faster-rcnn/1. prepare-dataset_colab__WRB.ipynb>)
+
+    * Train Faster R-CNN
+        + [For WRB](<different-approaches/faster-rcnn/2. train-FasterRCNN_colab__WRB.ipynb>)
+
+    * Evaluate Faster R-CNN
+        + [For WRB](<different-approaches/faster-rcnn/3. evaluate-FasterRCNN_colab__WRB.ipynb>)
+
 
 - YOLO v10
